@@ -1,0 +1,5 @@
+interface:
+  display_name: puzzle activity book creator
+  short_description: Create solvable activity books with verified answer keys
+policy:
+  allow_implicit_invocation: true

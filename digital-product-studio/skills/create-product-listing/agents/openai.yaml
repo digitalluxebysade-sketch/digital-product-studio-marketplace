@@ -1,0 +1,8 @@
+interface:
+  display_name: Digital Product Listing Creator
+  short_description: Turn a finished digital product into a clear, conversion-focused
+    listing and promotional asset plan.
+  brand_color: '#D9A6C4'
+  default_prompt: Use $create-product-listing for this task.
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,10 @@
+interface:
+  display_name: Seasonal Digital Product Bundle Creator
+  short_description: Create coordinated holiday and seasonal digital-product collections.
+  brand_color: '#E5A6B8'
+  default_prompt: Create a complete seasonal digital-product bundle for [holiday/season]
+    and [audience] in a [style] theme.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

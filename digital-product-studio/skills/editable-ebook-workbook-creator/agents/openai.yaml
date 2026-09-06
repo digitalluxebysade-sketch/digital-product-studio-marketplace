@@ -1,0 +1,11 @@
+interface:
+  display_name: Editable Ebook & Workbook Creator
+  short_description: Create a niche ebook plus matching workbook, templates, and sales
+    copy.
+  brand_color: '#B69AD9'
+  default_prompt: Create an editable ebook and matching workbook about [topic] for
+    [audience], with practical templates and sales-page copy.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

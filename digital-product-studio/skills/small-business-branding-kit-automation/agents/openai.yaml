@@ -1,0 +1,10 @@
+interface:
+  display_name: Small Business Branding Kit Automation
+  short_description: Create strategic brand foundations and coordinated visual assets.
+  brand_color: '#A7C9A2'
+  default_prompt: Create a complete branding kit for a [business type] serving [audience]
+    in a [style] direction.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

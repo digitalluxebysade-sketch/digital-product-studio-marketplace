@@ -1,0 +1,5 @@
+interface:
+  display_name: create digital paper pack
+  short_description: Create coordinated seamless digital paper collections
+policy:
+  allow_implicit_invocation: true

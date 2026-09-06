@@ -1,0 +1,14 @@
+{
+  "name": "create-any-product-mockup",
+  "version": "3.0.1",
+  "title": "Create Any Product Mockup",
+  "summary": "Pinterest-ready, reference-driven product mockup skill with backend scene, pose, styling, and aesthetic retrieval.",
+  "primary_instruction_file": "SKILL.md",
+  "includes_backend_reference_library": true,
+  "active_unique_references": 197,
+  "notes": [
+    "Private visual reference library included for backend use.",
+    "Pose and framing support added.",
+    "Do not redistribute third-party inspiration references without permission."
+  ]
+}

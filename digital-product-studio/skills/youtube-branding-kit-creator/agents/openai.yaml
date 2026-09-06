@@ -1,0 +1,10 @@
+interface:
+  display_name: YouTube Branding Kit Creator
+  short_description: Generate coordinated YouTube channel assets as separate images.
+  brand_color: '#E76A78'
+  default_prompt: Create a complete YouTube branding kit for a [channel niche] called
+    [channel name] in a [style] theme, with every asset generated separately.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: create coloring book collection
+  short_description: Create cohesive coloring books and printable line art
+policy:
+  allow_implicit_invocation: true

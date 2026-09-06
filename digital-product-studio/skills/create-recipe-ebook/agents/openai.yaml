@@ -1,0 +1,5 @@
+interface:
+  display_name: create recipe ebook
+  short_description: Create complete recipe ebooks with coordinated food visuals
+policy:
+  allow_implicit_invocation: true

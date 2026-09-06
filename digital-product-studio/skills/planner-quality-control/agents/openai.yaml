@@ -1,0 +1,8 @@
+interface:
+  display_name: Planner Quality Control
+  short_description: Audit planner pages, dates, links, layout, and delivery files
+    before release.
+  brand_color: '#D9A6C4'
+  default_prompt: Use $planner-quality-control for this task.
+policy:
+  allow_implicit_invocation: true

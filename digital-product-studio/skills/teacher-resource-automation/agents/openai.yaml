@@ -1,0 +1,11 @@
+interface:
+  display_name: Teacher Resource Automation
+  short_description: Create practical classroom resources, worksheets, and teacher
+    tools.
+  brand_color: '#F0C86E'
+  default_prompt: Create a complete teacher resource pack for [grade], [subject],
+    and [skill/theme].
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

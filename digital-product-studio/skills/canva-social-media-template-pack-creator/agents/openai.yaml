@@ -1,0 +1,10 @@
+interface:
+  display_name: Canva Social Media Template Pack Creator
+  short_description: Build original, coordinated Canva-ready social template collections.
+  brand_color: '#F3A9C2'
+  default_prompt: Create a sellable Canva-ready social media template pack for [industry]
+    in a [style] theme.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

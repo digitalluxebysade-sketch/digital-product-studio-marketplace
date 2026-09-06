@@ -1,0 +1,2282 @@
+[
+  {
+    "name": "canva-social-media-template-pack-creator",
+    "description": "Create original sellable social-media template collections for industries, creators, coaches, and small businesses. Use for post, story, reel-cover, carousel, highlight, Pinterest, and listing-preview systems with separate assets and Canva-ready build guidance. Do not copy a marketplace template or claim a Canva link exists unless it was actually created.",
+    "files": [
+      {
+        "path": "README.md",
+        "bytes": 233,
+        "sha256": "0a7b0d524fac0deada078417e88ac881da2a48bbf6b380dc7cba71d94b09a915",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 5313,
+        "sha256": "7945ed205dda467ca2068799481ec5b21007ef190260ee1bcb19cb4f9b5d14a0",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 451,
+        "sha256": "f7a6beb3693f62cd308a088ecfa6d6bb6360591b94f4214803bf006c0a99e704",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/icon.svg",
+        "bytes": 1210,
+        "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/examples-and-checklist.md",
+        "bytes": 971,
+        "sha256": "f4921c27b9bece39cdf09d0723cf38ada84b7c9aeee7742b0cec7084e40fd833",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "childrens-kdp-book-creator",
+    "description": "Creates original children’s books, tracing books, coloring books, alphabet books, number books, and activity books with consistent image-generated artwork.",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 9334,
+        "sha256": "1cb083232e02eb97d314536e54347ca06e51c644db7c33649843a4f9e27d543f",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 166,
+        "sha256": "d4e9187440bfd39845eb1cd2f27b3f04c8df289840ccd66c9a36f9473fe78d5d",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "create-any-product-mockup",
+    "description": "Create Pinterest-ready aesthetic product mockups and Etsy listing graphics using curated visual references for products, poses, scenes, lighting, styling, digital planner device layouts, and commercial presentation.",
+    "files": [
+      {
+        "path": "BACKEND_REFERENCE_RULES.md",
+        "bytes": 3245,
+        "sha256": "3fb73b07bf52aed092fe0560fce3251af7c560ae308edbb3d01217794783b3c9",
+        "mode": "0o644"
+      },
+      {
+        "path": "CHANGELOG.md",
+        "bytes": 1260,
+        "sha256": "a1bd1110053393e84d270b1790b39e60f486c146b61e4325cd79f1c934af5c8e",
+        "mode": "0o644"
+      },
+      {
+        "path": "PRIVATE_USE_NOTICE.md",
+        "bytes": 546,
+        "sha256": "3a41ba7874d7121f79c9061544b6c144c68863285e1702bb7473092a7a3aeb6f",
+        "mode": "0o644"
+      },
+      {
+        "path": "PROJECT_INSTRUCTIONS.txt",
+        "bytes": 1367,
+        "sha256": "dd6ec9bdea23f33b7ba0968ca26fcaaaa881038dc2db5583f7d6b2cbc88b24cf",
+        "mode": "0o644"
+      },
+      {
+        "path": "README_FIRST.md",
+        "bytes": 1463,
+        "sha256": "9909fa53efc41441318af16b5b471b99365233562a0c9890840807503f14c344",
+        "mode": "0o644"
+      },
+      {
+        "path": "README_INSTALL.md",
+        "bytes": 1404,
+        "sha256": "ef1b8fb94fba32ab786d0934751cf1ad860d15df7b741e0f7c3a6870b2b1db48",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 13070,
+        "sha256": "d9530a9a7b26669e8f0f0f15dc12bd6a4763999e7ca0256220d41eb0a41329b9",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL_PATCH.md",
+        "bytes": 1800,
+        "sha256": "90c8069beb473f472e74244e4199e0d8a1cfbe60730c04fa369da44a257dd994",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 394,
+        "sha256": "af9721b58fd3ef1e470e96307cd5d3a68e1bb8992b85b7838d00c6e6cba346b5",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/icon.svg",
+        "bytes": 1210,
+        "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee",
+        "mode": "0o644"
+      },
+      {
+        "path": "examples/retrieval_examples.json",
+        "bytes": 2225,
+        "sha256": "04e17716bdf89773eb358ebdcdbeccc837900313b98acdd0c07a04354b218f71",
+        "mode": "0o644"
+      },
+      {
+        "path": "excluded/duplicates/REF-0061.jpg",
+        "bytes": 42096,
+        "sha256": "f23fa7f760e57bc60d3258db2a0c38157ff9b5fbcac07f585b93278727a72883",
+        "mode": "0o644"
+      },
+      {
+        "path": "excluded/interface/REF-0133.jpg",
+        "bytes": 66350,
+        "sha256": "f7aef4e02db73b3d6c1342904c9916a8d47043a0648e02e2fe5f95f057f68fe7",
+        "mode": "0o644"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 562,
+        "sha256": "e78661026245c422eb19e6f72db2d4fbd7e461d497fdc62e064cf9d847a4bb23",
+        "mode": "0o644"
+      },
+      {
+        "path": "manifest.txt",
+        "bytes": 10845,
+        "sha256": "cfdf16bc95b39338f6f94d0dcbddb9e0a2d43b8572186b3c9b0b1a614d43362b",
+        "mode": "0o644"
+      },
+      {
+        "path": "previews/apparel_children.jpg",
+        "bytes": 70229,
+        "sha256": "0e9d12d2cd141ba42ca2f6ecc798029daac15e7d37326d451e0688b80567ca5f",
+        "mode": "0o644"
+      },
+      {
+        "path": "previews/apparel_mannequin_product_only.jpg",
+        "bytes": 95491,
+        "sha256": "d22bc1dcadf484c5ae4edc00d7944c02c80236ac1df78d2ded2377b676252408",
+        "mode": "0o644"
+      },
+      {
+        "path": "previews/apparel_men.jpg",
+        "bytes": 116710,
+        "sha256": "c85caba3d1ca2bb607f14ec583156fa57c6217fb3755c2e3037a0f26f6695469",
+        "mode": "0o644"
+      },
+      {
+        "path": "previews/apparel_women.jpg",
+        "bytes": 117828,
+        "sha256": "11f8a637ceea65705b9f7381aa4802f94d11bce44ff53a69f9646157ee48df7a",
+        "mode": "0o644"
+      },
+      {
+        "path": "previews/beauty_hair_makeup_portraits.jpg",
+        "bytes": 48237,
+        "sha256": "0be1b6284b4a30a6c11c07f832f166c5f482b838dc250d22d3d2c38df819542d",
+        "mode": "0o644"
+      },
+      {
+        "path": "previews/drinkware_ceramic_mugs.jpg",
+        "bytes": 85596,
+        "sha256": "abb995dab4b1a1536493ca3f996e5c19a4515d08d3004c6f58c70a7b03f04c7a",
+        "mode": "0o644"
+      },
+      {
+        "path": "previews/drinkware_tumblers_bottles.jpg",
+        "bytes": 94975,
+        "sha256": "d6301277694d8a91c52c9b276721fecf61f87a5360c539e0bb6eac1ed2f547a0",
+        "mode": "0o644"
+      },
+      {
+        "path": "previews/interior_bedroom_workspace_scenes.jpg",
+        "bytes": 67861,
+        "sha256": "e28d38b2d7cb2092c2d1391461aea1e5f7e31f4c87b3b9c1163ce8ac052619c2",
+        "mode": "0o644"
+      },
+      {
+        "path": "previews/other_product_lifestyle_scenes.jpg",
+        "bytes": 14903,
+        "sha256": "df5e387ee64970a0347139f9676cc9a24e28cb00f4acef1c6931db6023a78c94",
+        "mode": "0o644"
+      },
+      {
+        "path": "previews/phone_cases_accessories.jpg",
+        "bytes": 104642,
+        "sha256": "1510a900cf5dda8612e6cde761ce309989252ddf70e26ef630b3f8c3a2c13faa",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference-index.csv",
+        "bytes": 64919,
+        "sha256": "08099c844f1050eb84a583aba1e4a0dbc039798fe092b0919c73958591b9cded",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference-index.json",
+        "bytes": 185399,
+        "sha256": "161632ec7a254c65f681bef0f55beb4fc93de9100d9da884e4798e7ddac77c9c",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_children/REF-0019.jpg",
+        "bytes": 71191,
+        "sha256": "2b7ef972150b9a015f3d51770228cb19fcf9e91862985baf7aef238c9eb21707",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_children/REF-0024.jpg",
+        "bytes": 45728,
+        "sha256": "ccf5a94bd8beb7f649bca02e00b344212fd41c357a28ec2c1b8ce785a058e874",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_children/REF-0028.jpg",
+        "bytes": 45334,
+        "sha256": "b0aea887deeeeac8a61cd0988e06cbf12a501edb9d2f99ed7371c69e52fb09c4",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_children/REF-0038.jpg",
+        "bytes": 43610,
+        "sha256": "4fbfc5596f849b2b9651c839a28a629ed4c7e903b73fadad166b58dd148244e1",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_children/REF-0051.jpg",
+        "bytes": 72107,
+        "sha256": "98941bebb10a5c9197796123f6c993d5c53f49298c256c6794da7068265be2fc",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_children/REF-0068.jpg",
+        "bytes": 52693,
+        "sha256": "62b98876b154c6bbbf4046ebaac79ba62ab3992f6b118a0b78eed5f1f816a806",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_children/REF-0085.jpg",
+        "bytes": 54323,
+        "sha256": "cb7ca50f7508c071d7fe665e2336a6f1ec00b869fd6c4ba3af58e76206a43f62",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_children/REF-0089.jpg",
+        "bytes": 102217,
+        "sha256": "1611a53cf001881eb9e14c902129e5218f4fb580f5744937918c5977bd452c5b",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_children/REF-0099.jpg",
+        "bytes": 50593,
+        "sha256": "201219a503d957829de9807c367e7b0491013570c1a611c59a8c2500fd960377",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_children/REF-0158.jpg",
+        "bytes": 97137,
+        "sha256": "99f34e76dfadc294777766f7d1a0364daa2fbddb61beed7c52786550810f9371",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_children/REF-0167.jpg",
+        "bytes": 45105,
+        "sha256": "e9ecc3a39eefa63584e31033f6ff4a78929d48eb33a3742b8995e784a27947a8",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0074.jpg",
+        "bytes": 43464,
+        "sha256": "ce6330a0e1324c0bcba82c61d9c7488e7fff7d2da18501b7131c414fd7d56c9f",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0092.jpg",
+        "bytes": 74973,
+        "sha256": "e987f5841556911ff71a5fbb775c2808f77445ae28401342526b852f963b5c6f",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0094.jpg",
+        "bytes": 84151,
+        "sha256": "4d8fc04fda4ba407bb6b47c72253c66238a32abe92a98536c25c988fdf3a0f39",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0109.jpg",
+        "bytes": 59474,
+        "sha256": "362672c90facbe75e64d5f353adaece06e2e9bf1ccb2d087c7ed3909e6d7f7a4",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0115.jpg",
+        "bytes": 77358,
+        "sha256": "3e3e122f57bcf997264c420a855928973a8bdf66bbc20c887d5e3c85e350b688",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0130.jpg",
+        "bytes": 81402,
+        "sha256": "65db81995d8750d08fe75b9ce611e434f3bbf47ac6d8b1861739d4ac5399d0d8",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0132.jpg",
+        "bytes": 36649,
+        "sha256": "5f82f842c6b3e34a6575269e5297d5c8d9cef9d81088531095b5c268f642297c",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0139.jpg",
+        "bytes": 58641,
+        "sha256": "37fcbe4c782fb473b2329eff137f5a8691f2b8e82711de07d5eaec39b6d1d856",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0143.jpg",
+        "bytes": 54938,
+        "sha256": "a2c992a8ce8182ec877ee2cddaa464cf2b7624da46133e0315824b7efc5785e1",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0144.jpg",
+        "bytes": 111772,
+        "sha256": "3c4b1955e89f82e4ef1f8a0b5ccaf0534642a2b097918707893bfef4c4eba5e2",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0145.jpg",
+        "bytes": 42276,
+        "sha256": "e2f2f5e194b73919b0c61332877f72cba76e4939962a7f912e867f4bb3546022",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0176.jpg",
+        "bytes": 125608,
+        "sha256": "6f1f26cde753855181958be43868229a6bf2794170aa876ab1664f6c557e60c1",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0184.jpg",
+        "bytes": 68853,
+        "sha256": "99426ea9553126d0fc5d92b4b202fc1ffebf6e7775c671fe3698e7979d14728c",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0197.jpg",
+        "bytes": 36855,
+        "sha256": "c4699fb765dc9f6e9734047db3f31da6810a68d8d3da78b1e349ae9b2abb64ed",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_mannequin_product_only/REF-0198.jpg",
+        "bytes": 88489,
+        "sha256": "89a4bb2c6ba7325720be43512d8edbe81cdda109ffadd91c8c871828121142f8",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0002.jpg",
+        "bytes": 66640,
+        "sha256": "87e81a14d33e6ab30d806f3eb995fbc4e5546afbec8a0a84ecf64e858ebc710a",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0008.jpg",
+        "bytes": 54618,
+        "sha256": "9e0a4e93a34f3a2ad7a290699478bd33f3a65a6abbe75ba5ab94ebe7a0f43138",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0011.jpg",
+        "bytes": 46973,
+        "sha256": "cdce4a7e306e0f92ea5595fe21de8f97abb540887aa0e700ab1f636d4e7c61ea",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0012.jpg",
+        "bytes": 50037,
+        "sha256": "0771d368c58bfa1b08674c0c61148a9f047851ea182d7788ac2672acd99af66e",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0032.jpg",
+        "bytes": 80822,
+        "sha256": "c0bd88cff7114dcc27795afb3ccf0dd23d0e19936109dfc7abf7a5c0d2f6070e",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0034.jpg",
+        "bytes": 55067,
+        "sha256": "43a79ff66a4d008d5f0485fe895ccca643b046cee523bb47b67ec6b745f6916e",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0037.jpg",
+        "bytes": 38909,
+        "sha256": "a9a763fba65c255ffcd2f9557be44dfb723a02f822a58ca8f1097ef87df7743e",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0048.jpg",
+        "bytes": 43675,
+        "sha256": "a9fd412c5ff8fda2726a4577da42147b8446a8c8511dedf9d3357cccf27d565c",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0052.jpg",
+        "bytes": 64968,
+        "sha256": "2e2a7a51cfc3f46dfa8859ab8574518e50973237f16c216b0fa433ae9f3a8d4c",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0053.jpg",
+        "bytes": 56002,
+        "sha256": "a0b182e414ba14433b1049d1ee2ff1c983763336bbb0e51fcaddb8234b4c5993",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0054.jpg",
+        "bytes": 64556,
+        "sha256": "ff9d1a11a3e575abbc8d73894855c600a8e233bedfea71c13e759032f8a0e413",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0055.jpg",
+        "bytes": 52530,
+        "sha256": "0d8e793c54359d2f3cf5cb281076fc048daee798be4a8ac6635b5fb0b9c70c6d",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0060.jpg",
+        "bytes": 42096,
+        "sha256": "f23fa7f760e57bc60d3258db2a0c38157ff9b5fbcac07f585b93278727a72883",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0062.jpg",
+        "bytes": 85289,
+        "sha256": "2ee53ccc0b8162d03282c8a5c312b65d23f39a307b0331a0ee25c2a4fba83001",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0077.jpg",
+        "bytes": 71637,
+        "sha256": "f260d8fc7bade7c0a8c1f542d3477ef3e2ff7ed19cf97626402f90da156a1289",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0082.jpg",
+        "bytes": 54282,
+        "sha256": "77dbe4b3c8e2bc6b1c147ac4c00cbc35ef8d8dc80d8fd22e93eab39a49812fd7",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0095.jpg",
+        "bytes": 53949,
+        "sha256": "7bac4914a5182e41dd3367f603925ed014e0552dbb5cb6bae42904dfec1fa3f0",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0096.jpg",
+        "bytes": 90915,
+        "sha256": "f78d2fb7262f75bd88564a01fb48827feb2d4e97f06ac3f6c890195acb469848",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0104.jpg",
+        "bytes": 44618,
+        "sha256": "21b7f7669692eee14747a542cd1cfc943a3e51c751ec7fc42b97d2d1451b428a",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0117.jpg",
+        "bytes": 38340,
+        "sha256": "5a282df3b24daf12053c45487e32afb664525a6b45c5522b274d05462ed1bc73",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0119.jpg",
+        "bytes": 78559,
+        "sha256": "0fd748cb3fcab550e47d5b2eed03c99efa513835dabeb243d73582add555b0a0",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0125.jpg",
+        "bytes": 67050,
+        "sha256": "ba7d48ae070ffbd056c04309fa69d70a69ba8a747e55b56d89a9e737b672415f",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0126.jpg",
+        "bytes": 52729,
+        "sha256": "57072ca17a185635e89c8f2dc421620a5a0dd58a783a22702c4586de506e051d",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0127.jpg",
+        "bytes": 90157,
+        "sha256": "22e3cdeed348f49b7d3e2462069c538bd211def4b431fa44ffe8e5615826cd3e",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0129.jpg",
+        "bytes": 91642,
+        "sha256": "56152bcf89e15a65312d1a26ced41593b37218590674064541e77c704fb45a30",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0140.jpg",
+        "bytes": 49920,
+        "sha256": "15edbe0a3cdbf6b163e15028471986176d325978abfd1d227aabceac4b5b85f8",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0157.jpg",
+        "bytes": 75307,
+        "sha256": "879288e7a27988ba1e768ba7914bfe338f74386418ddae475127b5f7e9df5cf7",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0169.jpg",
+        "bytes": 62907,
+        "sha256": "7085742398ae16eeb45ce2569dcf6e0241878123ac503d6e3c3612c7d63421ee",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0172.jpg",
+        "bytes": 86094,
+        "sha256": "c826ef5bfc2aa6d01dcbe47b9381912de4bafe6324837e82aa73ff9ab1c4f4fa",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0174.jpg",
+        "bytes": 61737,
+        "sha256": "a03ff32cbb5a052edca5fa3bfb08035313e93721a5fb2bd7a8338e798b485669",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0175.jpg",
+        "bytes": 43552,
+        "sha256": "69190d38a0800359fdb2241cfc8c39de6a16383449eb3e20d59aba13ab91e888",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0179.jpg",
+        "bytes": 70153,
+        "sha256": "6b66d25b0269e97d62e5dad6462e65520d3e2cd727e2a2b4a737de318549b30b",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0180.jpg",
+        "bytes": 68696,
+        "sha256": "ce1996f153254a26176aa80733b2aab4f4c0743ae56bf0fec98562baaf5e327a",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0181.jpg",
+        "bytes": 94858,
+        "sha256": "19d17c451add0008b19845eed7182b1bf38ff3182d21de01b995d1bf180387b0",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0182.jpg",
+        "bytes": 71026,
+        "sha256": "909261f3c5853421d9579c60ea0b9926c45cd14b137f823c27f39314b5d65742",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0190.jpg",
+        "bytes": 28921,
+        "sha256": "9f5f226b47f5461cb431f13af3c8f8bc5da47b4913339477909a149abacb0b2e",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0199.jpg",
+        "bytes": 56032,
+        "sha256": "3b107ebb67858908132cb93f09773f2bceeed742e5724582ddb87b6dff8df37b",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0205.jpg",
+        "bytes": 71519,
+        "sha256": "d29c799468d7041cd22c3161eeb653a65bb393e820a6a3cc37c1c2514653bcc3",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0211.jpg",
+        "bytes": 88924,
+        "sha256": "90d9e62f4cf6357ac1e5099683da0f7c9663c44d295a271fbc98eddc6ff70093",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0218.jpg",
+        "bytes": 64995,
+        "sha256": "54de8061b4224bccb4a8f61d39e3a02c0f9b33004d8aa234def232b36e0c42b2",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0219.jpg",
+        "bytes": 82125,
+        "sha256": "c0b915dccf59a57c6dc7566c6602fc6ea4223f575dc620641f37ad0cfe739232",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_men/REF-0221.jpg",
+        "bytes": 48292,
+        "sha256": "44a426f735f9b3667b4ac4b2d6cbbf5df26f2ce7cb270cff28a0842828dbbe97",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0004.jpg",
+        "bytes": 53026,
+        "sha256": "53dda51735be48a1772f155e7e7114e8567dd2da94af86bb2d50dd88d405bd3e",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0014.jpg",
+        "bytes": 47623,
+        "sha256": "da8a83020a1f0b87d08bc2783b0e957e4e9173612df9c65deee03ffde101d73c",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0016.jpg",
+        "bytes": 74004,
+        "sha256": "89fa24160fe20f06593f73c6d3e195c90f81a36bd7ed1aefdb3a79831b755d9b",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0021.jpg",
+        "bytes": 31245,
+        "sha256": "3440d8f29acbdf6a317ad1ada97e9c34df2db1478301d2abafa597626aaf7110",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0027.jpg",
+        "bytes": 39882,
+        "sha256": "a40f4f07b73b310a06a2c96cadda509c6342de95c1537ceb5ee16277c52625f7",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0029.jpg",
+        "bytes": 62127,
+        "sha256": "91a004393975e0f07c2f573a41c239715ac0cad32df3677203b92d5cacc797b7",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0030.jpg",
+        "bytes": 125281,
+        "sha256": "6c667c1afdfbc56ebcccb9e0419e61d3140e279a49b56efe32063f38700c9193",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0033.jpg",
+        "bytes": 43557,
+        "sha256": "90ca6880b3b93cf41b9d670e56cc22396a17329507a13f5a8f65e6fe5699390c",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0042.jpg",
+        "bytes": 37374,
+        "sha256": "ff95553deccb7abefaa7c7a3921ca84c15582bdf8df264ece76737126906012c",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0043.jpg",
+        "bytes": 56552,
+        "sha256": "c7c461347479ce1c049b1e79fb675b3b9f451fe2f69672cb44b847ce268f0218",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0045.jpg",
+        "bytes": 44880,
+        "sha256": "77287201daebbc641b2ed762110f4adef18bd6c39832b76f1b2ada83773bc6f2",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0046.jpg",
+        "bytes": 106414,
+        "sha256": "2a1cbfc38f52400a293703be20eaa60e7aace7b23d7e4e97fe79db28bf817670",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0047.jpg",
+        "bytes": 51551,
+        "sha256": "4c5f0950fe6c391c9b2007c632246053f51e53d1ecc444b37a4a5eab92a04ca0",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0049.jpg",
+        "bytes": 64244,
+        "sha256": "f6810bdfbe714d9728cc230fb22e36e59aecb041feafb10fb38992a9a629de54",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0050.jpg",
+        "bytes": 37702,
+        "sha256": "631ef4731fe5b2d386ad4b8f75826c4422a4d6827ca196a02abdaf51a2ace320",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0057.jpg",
+        "bytes": 39358,
+        "sha256": "1ad52517fbc180a02ed83b26b38781e189e5fabea062332197145c33d929768a",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0058.jpg",
+        "bytes": 39681,
+        "sha256": "ec8e63b9bfef52c57b117abfe13f85eebd46a840417419e3a5aa2f155f27d645",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0063.jpg",
+        "bytes": 44455,
+        "sha256": "aa216e7bd50e8babccf0a7ea0fa86f7f0ee039c7047ce068cc5a222b3ef3d1de",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0064.jpg",
+        "bytes": 79946,
+        "sha256": "a860add68821ccb8f33a43010f1c997c27a2f5bf909bb76bc7301f9d13e446e9",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0069.jpg",
+        "bytes": 150387,
+        "sha256": "0888e8c55cdb01c35be384e1e738d9ca7ce8457a2f2af13622581df557096fb2",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0078.jpg",
+        "bytes": 164514,
+        "sha256": "677af8c2f484db25113170f42b73faf97b4904cc8a54f7ca9c7160353494aeed",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0079.jpg",
+        "bytes": 71835,
+        "sha256": "267c165e67696dd5b1108f0ba124e575517efe8ad13c631cf90e86ad5c4d24ea",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0083.jpg",
+        "bytes": 55900,
+        "sha256": "691d63c481b30c13c02f533fae82cf0aa7e7a5a8d71374fbeb2b167b032592d8",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0086.jpg",
+        "bytes": 36269,
+        "sha256": "bbe5bd3ca93f658b009f9190efd7a44bdc66fcae307843723203c9eb8f1e4255",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0087.jpg",
+        "bytes": 39805,
+        "sha256": "2fa748d093cf6d5563bc6df57e431c217ffbd725b4bca91afb7ab47b6c2275a5",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0093.jpg",
+        "bytes": 41760,
+        "sha256": "761c03bd74b0f72e615d5a06baec74a37d85451e3c548f8d52c5c2ee0a02ab54",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0108.jpg",
+        "bytes": 46970,
+        "sha256": "5495b34d3058829e707937f25dac644e1fe783426dca80f04d9e996de8d42050",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0110.jpg",
+        "bytes": 88460,
+        "sha256": "4749f079f32536b28730609c59c5afabf16c33901a2c3d8fe3144647800094d5",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0111.jpg",
+        "bytes": 76836,
+        "sha256": "2b716758a1aa85ef2d0a1f60280251384211ff955fa3c34cf4e5c12581f95a65",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0112.jpg",
+        "bytes": 70448,
+        "sha256": "9c487da09ffe649b9c88c650692c550a551985f3c3ef8ee4c6a9555b154942d6",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0114.jpg",
+        "bytes": 95928,
+        "sha256": "f66c3df2383da9c8c39824432d0fcbc10cab00373bc6ef70f22b9cdef8427ebf",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0121.jpg",
+        "bytes": 42120,
+        "sha256": "c9dc3d1b1a63c449bc62e6cb24879cdea93074729efbb078f803910cdec6bb1e",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0123.jpg",
+        "bytes": 108473,
+        "sha256": "80990bb9faa1a346d5e69c290d957c3198e606f32d54c56834eb084ffd050975",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0131.jpg",
+        "bytes": 43679,
+        "sha256": "83f5e76e72d731081d187e92fa7458107289e6d9e600d707f22231225cbe968a",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0134.jpg",
+        "bytes": 45295,
+        "sha256": "7fa9237a6eb97ed005fa6caa291725c9f47414657749c6fd61f5dab0b8b72880",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0135.jpg",
+        "bytes": 56714,
+        "sha256": "4af451b2616ad3952d9fd988d9d5108ee8ba2bf44c2a56844073ac6cc88d0206",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0136.jpg",
+        "bytes": 52084,
+        "sha256": "3a47a64f091adff91f4a1a707160e7221e304789e0c2282f5edd41d50dcc6322",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0137.jpg",
+        "bytes": 65870,
+        "sha256": "d2ba65f6e3ebb2a0e9afd37b704d434f693418f9eca72649fbbfe6a839fe3159",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0138.jpg",
+        "bytes": 100164,
+        "sha256": "1bd9a9bb11fcdda70ae057eca1c44c78510516d213bfeab364a79e9d75f7123d",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0141.jpg",
+        "bytes": 58644,
+        "sha256": "0cc75eb32b15678f10c0f8c2fd3cb553c09b9af83005aab1f19e18a01f33a2b1",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0142.jpg",
+        "bytes": 117440,
+        "sha256": "06123ec10e67a1235925f4b5038442ef974b5d2dc7060cd0373cb1ccf22880f4",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0146.jpg",
+        "bytes": 60145,
+        "sha256": "dd233095bda34fa4cfe9841c11d33a6831756dfa8e8be44ae613e0b37a2f0aaa",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0160.jpg",
+        "bytes": 39264,
+        "sha256": "858ec66fa03d4426e4cfab7f6d93a1922d677db87e2aec612e62da41310579a5",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0163.jpg",
+        "bytes": 76854,
+        "sha256": "7a58203d8475d308b3187854495bdfb7916a312cf36b1efe36b486904ccfb49e",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0171.jpg",
+        "bytes": 72051,
+        "sha256": "4cab17eb5ba728a5b0980e6d3d33232d8b226f810229b0d67da3a79011783621",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0178.jpg",
+        "bytes": 48780,
+        "sha256": "6b2d96f8ef738baf1df7f231b8222d7a1e54f6b102ba86ffdce427683a36e6f9",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0186.jpg",
+        "bytes": 45980,
+        "sha256": "dd2a5d509e2d0c6c3c1988c28b24bb5d70c63393764f93c40e1f6a7ae8b14488",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0188.jpg",
+        "bytes": 83633,
+        "sha256": "f6d880f99a5676a1124e8703313569c0dd69cfd7182cd39c22031c90b24ef177",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0189.jpg",
+        "bytes": 41880,
+        "sha256": "6b6b2b98e666ec407572376c016577565034cd6f31654c0c6b986436add82334",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0192.jpg",
+        "bytes": 61320,
+        "sha256": "ee2a0335a851a0b59ca518b2a9ccfff6eb34307fa0445ef251ea4fa3f454f431",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0206.jpg",
+        "bytes": 65575,
+        "sha256": "70d0d0258c3a9a0055d2129e451759e655f5e75509fac5420a7ed3fed21eef87",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0207.jpg",
+        "bytes": 57349,
+        "sha256": "85dc840ed5f41855f5747987fc85c04086ecba6db9c97a9bae79a1145976311b",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0208.jpg",
+        "bytes": 126074,
+        "sha256": "67aa5437ed0b7de88d8c94f3359b4434aed6980cfc2c0bf8948ecf38743b94cc",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0209.jpg",
+        "bytes": 54718,
+        "sha256": "1bf028b4d3593abc08527231a815f778662c6f356bae81cec65b841ec99ea387",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0215.jpg",
+        "bytes": 118792,
+        "sha256": "c30ee29c2ee35d25a02acc20ce9e12929530a131705131083657c53742e403fd",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/apparel_women/REF-0216.jpg",
+        "bytes": 68729,
+        "sha256": "607ce1d892380f9356cab3c8a18e868d0b9c2f891ef14e7d48f70ac25a9edfea",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/beauty_hair_makeup_portraits/REF-0018.jpg",
+        "bytes": 131519,
+        "sha256": "9d816797f5db7b7c52d8d494df87b39ca5d621726ab8fbf41e51f9e1a0ed3f0f",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/beauty_hair_makeup_portraits/REF-0023.jpg",
+        "bytes": 89441,
+        "sha256": "dda9d2ea3a0842125de93d0019c6b59152e35aa4ef31c2dfe3d481241c496cb0",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/beauty_hair_makeup_portraits/REF-0059.jpg",
+        "bytes": 38133,
+        "sha256": "3476ad6c3c2521451eb7342a18fb75165152a17d6b5e34be636f480c6779c6c0",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/beauty_hair_makeup_portraits/REF-0066.jpg",
+        "bytes": 80506,
+        "sha256": "83a976e817381b189dfa5c401636e5826c198a072e7628d263b99983b089e0ef",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/beauty_hair_makeup_portraits/REF-0070.jpg",
+        "bytes": 57310,
+        "sha256": "1822a22ad4bd8875dbe22d42d703420432fc91646a5e0f9faa4457d8f39dcbb9",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/beauty_hair_makeup_portraits/REF-0122.jpg",
+        "bytes": 59828,
+        "sha256": "cd30f190a750f4bfb4891564435da6debcafb84b01b8dbcb93dec85ac10f883a",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/beauty_hair_makeup_portraits/REF-0168.jpg",
+        "bytes": 60884,
+        "sha256": "ab1f94f5f28955d5a701721440ddbae0e8a5d8097384f48c5352e1077457412e",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-01.png",
+        "bytes": 628268,
+        "sha256": "9b02ad40f8c42e01c2035726d54d226709d391005ec236430a3aa67c55fa225b",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-02.png",
+        "bytes": 693724,
+        "sha256": "40fe4815e420fd721637ff1536b4937358aa32f74c334f0c633123e23039da29",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-03.png",
+        "bytes": 806513,
+        "sha256": "3949787d9f986add252f68fb8ebea015233bb222a03595821f91d9937651449d",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-04.png",
+        "bytes": 395361,
+        "sha256": "8d6020ee2f571ec67112a41b6e22756d1c6c0cea1ed9fe8e0325f41edec95641",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-05.png",
+        "bytes": 967355,
+        "sha256": "332007e522d1fc7479fab8fee67a365aa71c8addb000f644e14265e290e83b14",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-06.png",
+        "bytes": 419072,
+        "sha256": "6e6469c3f472adaaa2d7d2dd4f8384ad7c3af5841654991a0c93bf4a6d941607",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-07.png",
+        "bytes": 757266,
+        "sha256": "67f3b3591781ed98f19cdb03d136f585236742e25b403d781da15c62b9dd7195",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-08.png",
+        "bytes": 448209,
+        "sha256": "dcee955f213d5d7f028fce4fd813ddeedebfde0c2c2d7bc31742edb29863b103",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-09.png",
+        "bytes": 589178,
+        "sha256": "5ce2b03e670481f0189706003202aad5308d86822acf46d30f43639c40372c16",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-10.png",
+        "bytes": 791310,
+        "sha256": "c46f22379c260072c8d921e896cfd58ee921b5e5f9d62fb2768cf19452d2dd12",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-11.png",
+        "bytes": 912488,
+        "sha256": "97d13c64edf9d9c3d729942ea6b5b2b5f9b680b6905f00abb20d6c643995ebe4",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-12.png",
+        "bytes": 870427,
+        "sha256": "1e6b9784048923b70e163fbae3b9abf60e17b1b738eb78e9b6c8686623108efa",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-13.png",
+        "bytes": 484580,
+        "sha256": "271ba9632ab7efbf463a3d929f9e6ef5dba84ee6da99e526041ba0fb0da3fc0d",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/digital_product_device_mockups/PLANNER-REF-14.png",
+        "bytes": 454059,
+        "sha256": "b7837c6b7afafffcba19138b41685c0d67421fc2f1902614bd036a2f66d09297",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_ceramic_mugs/REF-0003.jpg",
+        "bytes": 62734,
+        "sha256": "c6b29df5b9c2412c29714af6267fcff3899eed26f6171499343eab5b74968716",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_ceramic_mugs/REF-0009.jpg",
+        "bytes": 72839,
+        "sha256": "c7aae80690f53d03429aca0ec660ec4ce8b8b921a7f721fa53929b15431817d0",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_ceramic_mugs/REF-0017.jpg",
+        "bytes": 47912,
+        "sha256": "bf298479e23bc6e95f232fd1e00480d1805c21e3bd66632bc7433e2c16ad5d6a",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_ceramic_mugs/REF-0022.jpg",
+        "bytes": 62660,
+        "sha256": "135e3f840238a0f9ba331a2acecfe6ba80117209b533c08e557c542e8a50f6d3",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_ceramic_mugs/REF-0044.jpg",
+        "bytes": 65069,
+        "sha256": "dcd2059cdb02d59f1e7203f79379c93a85979be186666e112967de19e1b5bd61",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_ceramic_mugs/REF-0076.jpg",
+        "bytes": 33404,
+        "sha256": "a57c280f9076885d13d3e5e31e3cd51d44d802f2a34dad637a9686666257a239",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_ceramic_mugs/REF-0090.jpg",
+        "bytes": 69523,
+        "sha256": "bef0da38dc7217a163888da60300e0a87cc7f1f02c0932426de7bf972ab66624",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_ceramic_mugs/REF-0100.jpg",
+        "bytes": 51116,
+        "sha256": "41f9bee0105ef00b4e94b97de286cc2948018d2a48eda065ba850599704adb27",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_ceramic_mugs/REF-0101.jpg",
+        "bytes": 83927,
+        "sha256": "0c047278e2685de75bf2f8079545f830780c22330d98ab3765bb46e56b1bba13",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_ceramic_mugs/REF-0170.jpg",
+        "bytes": 81567,
+        "sha256": "25f598a000d90de249d8c5f8580ab3ca488d0bb66b543659a6b12731a2a973b3",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_ceramic_mugs/REF-0187.jpg",
+        "bytes": 71234,
+        "sha256": "dab4a4734b1533792f7c61264decd51e8bdb3a66d2645d5525601852928d0484",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_ceramic_mugs/REF-0195.jpg",
+        "bytes": 78613,
+        "sha256": "f71032cbe7321a18e779c2604cd1f68a1791d6f9831e3da57d9316b6c9174517",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0081.jpg",
+        "bytes": 55759,
+        "sha256": "665c0b619ba1f2328abf5f7ca96e704229b650e4d9ec82b22f0d8b7331171076",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0088.jpg",
+        "bytes": 75214,
+        "sha256": "b325b23e7a246d67d1226106f5fe502122259d457d319b1cc0394d0116dfb780",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0098.jpg",
+        "bytes": 70550,
+        "sha256": "ab12ffb78d872ad628b78157c99741c1663a49b234c06a49f6e7faf6b5fac9b6",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0106.jpg",
+        "bytes": 46500,
+        "sha256": "79bdd081e9ee2f233fdc8c013b09c87ba72a081a522de8131bfbe313247e14d6",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0113.jpg",
+        "bytes": 74636,
+        "sha256": "542eefcb92bc92b32f2d8846024eea103b1fb0a4b075476898b18bb6cd85863e",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0118.jpg",
+        "bytes": 75792,
+        "sha256": "1afb647a826e7b2ce0afdd36ef74b459070ebdcc6e597fd692ff1d9138b97bfd",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0124.jpg",
+        "bytes": 54074,
+        "sha256": "5d29c88d0cbdbbc95e75f35e482cff07600d4a92ffc81fc41dccbac79a82cb34",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0152.jpg",
+        "bytes": 70530,
+        "sha256": "894c57aecf1cb50095ed18e4bce653503aee63ffce406949fe1c92b5fb9d01c8",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0156.jpg",
+        "bytes": 85200,
+        "sha256": "b4eaef890570597b0dd927af6196a718dbd231df516f299148d489b168942010",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0159.jpg",
+        "bytes": 104705,
+        "sha256": "000583d2a191e44a3f43e5569222c30661a233f3b061d2785f88fbf5a25f57e7",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0183.jpg",
+        "bytes": 71639,
+        "sha256": "189e92670e911961c979e019bcc88463fd72351ea2e436838f590a8cb58b0d37",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0191.jpg",
+        "bytes": 65971,
+        "sha256": "d9eecbfe9e035eeb60ff752b081a05ff3419bd7a33d972290654e78d3ae60836",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0193.jpg",
+        "bytes": 48413,
+        "sha256": "f92bd839e58739c4e648605a5be255173faf3201d39d7d5fbcfafd00a2b487ab",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/drinkware_tumblers_bottles/REF-0200.jpg",
+        "bytes": 69297,
+        "sha256": "ebd5ec1ecf0b4e4581ea66485e0f18616ea4346b1765a5d617274f1b3bccfd60",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/interior_bedroom_workspace_scenes/REF-0010.jpg",
+        "bytes": 82299,
+        "sha256": "39ecfddbe46b716e22c4a9fb47457a6060a32f000fcfc93f7275a01a94c087d7",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/interior_bedroom_workspace_scenes/REF-0065.jpg",
+        "bytes": 92281,
+        "sha256": "855aeccf1f383f4be5c845c2469f73be814c1b3324f4d02bc7871fd76096506f",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/interior_bedroom_workspace_scenes/REF-0084.jpg",
+        "bytes": 105768,
+        "sha256": "64e487fed76c073be08d8cac953168590c5676226870adc0eeac03e875150bac",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/interior_bedroom_workspace_scenes/REF-0107.jpg",
+        "bytes": 100361,
+        "sha256": "4713a53431df2e83d64c76422b4f173812044e3383a9ecb6801467a52c7d0235",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/interior_bedroom_workspace_scenes/REF-0151.jpg",
+        "bytes": 105483,
+        "sha256": "b477eb574c18a388a11bd46dc70988d88de8a1624c2fe9f547613a24233f1135",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/interior_bedroom_workspace_scenes/REF-0164.jpg",
+        "bytes": 63139,
+        "sha256": "b460b2914ac717fc187d8504c8c4d89a5b446f432905dd1d437241ee13d033cd",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/interior_bedroom_workspace_scenes/REF-0166.jpg",
+        "bytes": 81458,
+        "sha256": "e260ef9ccb4963fc8712d9ed8c8c345083c604f234d46c1e46fc6120283f605f",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/interior_bedroom_workspace_scenes/REF-0196.jpg",
+        "bytes": 87759,
+        "sha256": "f608593630168201f715ed23824d8147e84dfea60704154fcc448163f120be78",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/interior_bedroom_workspace_scenes/REF-0201.jpg",
+        "bytes": 94944,
+        "sha256": "19f5aadc95da7a5273286a38019630bc6717789dc4774fa133ff781a7d70f6b1",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/other_product_lifestyle_scenes/REF-0005.jpg",
+        "bytes": 87453,
+        "sha256": "b9a211865f387eeaa53dfc851626052aa3e252b307bf1d5a60878d30b216bb5b",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/other_product_lifestyle_scenes/REF-0015.jpg",
+        "bytes": 31887,
+        "sha256": "fe79ac4f112c105d37c0402bc64954df8c2c63d08ad39d7587a4b035eb0cb8e2",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0001.jpg",
+        "bytes": 77211,
+        "sha256": "61e973d846482b10619be8a52da38c3cc27c1b15d7f7518816c92f8ef2122604",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0013.jpg",
+        "bytes": 95365,
+        "sha256": "0bfa6c4512d04681ca8082b186d1178af1027ee7be3fa4c83c3dec1b09417992",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0020.jpg",
+        "bytes": 83377,
+        "sha256": "c7452bfe6e535482018538436264c216545c16c85381f0623c7116451e63f848",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0025.jpg",
+        "bytes": 91274,
+        "sha256": "3926727d7d290894084a4b5f3be8c70b22601e086785103217a3cef5ac0fb8d6",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0035.jpg",
+        "bytes": 71561,
+        "sha256": "1d775d60e48285bb2d77b941c10056b6a51a3f8405cbc058875a21f85ee0fa18",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0041.jpg",
+        "bytes": 67117,
+        "sha256": "2a4938e40e384c0336a14d92e8f58113e629017172cad760c832bc451b098e02",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0072.jpg",
+        "bytes": 82122,
+        "sha256": "1ede62452ebbf0b902001286bd5b8790ae08cc65dd697b49ecbee014bc8b9181",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0102.jpg",
+        "bytes": 51441,
+        "sha256": "b82299de25eee75d729edd85018c4aa8adb1ad04aa9e3ba43a4fb25c85b0a345",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0103.jpg",
+        "bytes": 81651,
+        "sha256": "92e40958fb4aa46f5e24b43646e2924732f86d344cb644c71778500618be45ad",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0105.jpg",
+        "bytes": 66801,
+        "sha256": "9beff765a2fbbfa8ff48dadc17d33a5821c57cb90f65df0c46d15be5d2f84e19",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0116.jpg",
+        "bytes": 69263,
+        "sha256": "70b345844614f4711525ea50010d871818275ce6fd02c21080e2a8013ba803b2",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0148.jpg",
+        "bytes": 76132,
+        "sha256": "432f42e29abe3000f00c1d3eed00a7a4de52e9ad780944bd78371b32c1e002b6",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0162.jpg",
+        "bytes": 70990,
+        "sha256": "5c7ed77b2cbc2f61c0924994b7fa31cde7807a1ad8b7bd2226ae0ced78ff6f58",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0194.jpg",
+        "bytes": 71962,
+        "sha256": "25b7cfb8f05a19cec8d29cd18f4009aeb64154c8906be2eff8b923b7fb6eb22e",
+        "mode": "0o644"
+      },
+      {
+        "path": "reference_library/phone_cases_accessories/REF-0204.jpg",
+        "bytes": 51925,
+        "sha256": "b84a2c022ec528f316c9357cecaf4ba66e9b7df6477fcae829745b7a6b4e23fb",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "create-coloring-book-collection",
+    "description": "Create an original, cohesive coloring-book product from concept through print-ready interior, cover, preview images, and customer files. Use when the user asks for a coloring book, coloring-page collection, themed coloring bundle, or printable line-art product.",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 9613,
+        "sha256": "2ca03b561cb5f8cd2892948ce499128f63160fc2886c92d5f2f96580dcd55e2c",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 171,
+        "sha256": "a3a9b8f824e9630bd27675fa809bf011f0c2bd4ab63f03fa6e94f09b1c210ccf",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "create-consistent-tabbed-digital-planner",
+    "description": "Creates complete multi-page digital planner products with ChatGPT Images 2.0, including separately generated full-bleed functional pages and a locked tab system that remains identical on every tabbed page. Use when the user asks to create a digital planner, planner cover, planner interior or interiors, GoodNotes planner, hyperlinked-style planner, Canva planner, tabbed planner, PLR planner, or coordinated planner-page collection. This skill requires an exact page manifest and makes the image canvas itself the planner page, never a smaller sheet on a background or mockup.",
+    "files": [
+      {
+        "path": "LICENSE.txt",
+        "bytes": 625,
+        "sha256": "03749db5e4e96d28ce7fda83742a54ac2629535f579c321f658f17d2383fad64",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 29641,
+        "sha256": "064627d74ee6781e4ffc3c939fd6ba3d04c0a59dbbfacbba5b0b5418f41490de",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 442,
+        "sha256": "c83f3523bafc013b41fc3f1fe75820e3d580a8266b7770386da8a5109bf0a775",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/planner-project-manifest-template.md",
+        "bytes": 1912,
+        "sha256": "45a88e68425d77e6e7ae87c151e4a4f4b958c5aaf5699b6fc42c56f253983446",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/tab-blueprint-template.md",
+        "bytes": 674,
+        "sha256": "f39cfe95a7503424edfb2e3a79a70732114cc6d01f70b9ea18bdcbc303ca39c8",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/canvas-equals-planner-page-protocol.md",
+        "bytes": 4163,
+        "sha256": "c0f6f303b0f5c75dc6036c23b446ae7c381007918c9c431770952361b18ed3db",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/complete-page-set-protocol.md",
+        "bytes": 3268,
+        "sha256": "d6920d8028ab5456665efc5f53a53bdac9f9bac14c79584d805f51f5c633bf3e",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/master-tab-lock-protocol.md",
+        "bytes": 2401,
+        "sha256": "609fd8d186b41ff740f1b12bde34b2348c2cc3700d848e485eb2218936570558",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/page-library.md",
+        "bytes": 2476,
+        "sha256": "c2aa23ce4e2feebdb6ee8fbbd0300231ce813d26ea036cb61346eef49199f7ca",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/planner-input-form.md",
+        "bytes": 1384,
+        "sha256": "22550eb133b2b81c660d7bc20b5ac8045540cabbf0eb502b3895d24c5980b8a4",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/qa-checklist.md",
+        "bytes": 3141,
+        "sha256": "9028739294883fdca973a11d1bdbcad3f7cdd8c46c6a08081dbafc89669386df",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "create-digital-paper-pack",
+    "description": "Create a coordinated collection of original seamless digital papers with pattern tests, high-resolution exports, previews, and licensing notes. Use when the user asks for seamless patterns, scrapbook paper, digital paper, printable backgrounds, or a coordinated pattern pack.",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 8979,
+        "sha256": "f749db0ff574a0bfd199bc5792ebe202ea6dfe8fa6fe8ff3815127a2dc87d882",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 165,
+        "sha256": "a35cc4808c3b8af3f00f5f75f044dfafc439cfbd6586a539aa37e027def46af3",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "create-etsy-product-automation",
+    "description": "Creates complete Etsy-ready digital products from one prompt, including the finished product, separate page files, PDFs or editable deliverables, listing images, mockups, SEO listing copy, delivery instructions, licensing, quality checks, and a final organized ZIP package. Use for Etsy digital downloads, printables, planners, workbooks, e-books, templates, invitations, activity books, brand kits, wall art, mockup packs, and other sellable digital products.",
+    "files": [
+      {
+        "path": "README.md",
+        "bytes": 1129,
+        "sha256": "43f2053f69777492fa59ea80f5480144bb099d83e79e5e5b1bc0d56a7e8a70e6",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 19879,
+        "sha256": "9ebad6fddfde1365b383d4db110b7332d2e61a9ed7d2f1eef6b9885dd57bf2e9",
+        "mode": "0o644"
+      },
+      {
+        "path": "START_HERE.md",
+        "bytes": 851,
+        "sha256": "01eadfb8684e1a7f9d6358ddabe270d39d021ea58ed846567feb01969ecb435b",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 714,
+        "sha256": "3c3889fc4896b5164614d36d876968b2f213ed530d0ee4f9d8b7f8ddc3393a6e",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/icon.svg",
+        "bytes": 1210,
+        "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee",
+        "mode": "0o644"
+      },
+      {
+        "path": "examples/example_automation_product_request.md",
+        "bytes": 509,
+        "sha256": "74fad30a34ace40a4a2f3699c24dabf8e12c65539c07a6584b22ec63c461d5ae",
+        "mode": "0o644"
+      },
+      {
+        "path": "examples/example_full_request.md",
+        "bytes": 670,
+        "sha256": "703ccb369b132c5b962c91fad43632016e3c788385281efe876991c99e809968",
+        "mode": "0o644"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 476,
+        "sha256": "53c19febf137b644d7868297706cd28bbc564cfbc988ef2f95cf7e93995255e4",
+        "mode": "0o644"
+      },
+      {
+        "path": "templates/customer_delivery_template.md",
+        "bytes": 1097,
+        "sha256": "b4afdefe93241ae236a6d68f4c5dafb33baca64e6fed053e6f8c5d7e08557d3f",
+        "mode": "0o644"
+      },
+      {
+        "path": "templates/license_template.md",
+        "bytes": 738,
+        "sha256": "4d1f2d2be239d5a8feef41f7d2d09a4bb6761dff07853181f6048a62991be43b",
+        "mode": "0o644"
+      },
+      {
+        "path": "templates/listing_copy_template.md",
+        "bytes": 1308,
+        "sha256": "32140ef7e8a4071764f2643d3285e7395ff5c06e1a0cb752f9f54f5d84eef1e8",
+        "mode": "0o644"
+      },
+      {
+        "path": "templates/listing_image_plan_template.md",
+        "bytes": 626,
+        "sha256": "b5f2119842e4cfb4a6506d41888cf68bcef85097af5f5c889471698cdf4e7f6b",
+        "mode": "0o644"
+      },
+      {
+        "path": "templates/product_manifest_template.md",
+        "bytes": 678,
+        "sha256": "462019f78d09b805daf10398f5bf9efe880ec3c2ad3a2265fcd4e5c2c9e5dc8d",
+        "mode": "0o644"
+      },
+      {
+        "path": "templates/qa_checklist.md",
+        "bytes": 1309,
+        "sha256": "98f2056b68a893f18cf3a9fc6aea133e631d884cb4572d7d5a2ffcfa523809cc",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "create-product-listing",
+    "description": "Use when the user has a product or product concept and wants a listing title, description, included-items section, usage instructions, FAQs, keywords, listing-image plan, or store-ready copy. Do not use for broad brand strategy without a specific product.",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 4460,
+        "sha256": "aa47415b46183506c1490530318bf527a582c9df5640712b81f24359527eba1b",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 365,
+        "sha256": "0b7045361dde6b8b9d31e97d4d6d7804f5c312d67a95170f2c978ca21efdb3aa",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/INPUT_WORKSHEET.md",
+        "bytes": 699,
+        "sha256": "b41cd6c773db932075666fbdae0aa7ea4810417a8a018abb6dcfd044acb4efcb",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/OUTPUT_RECORD.md",
+        "bytes": 920,
+        "sha256": "8ce1fbf340e17ff6b90d60b4f4baa789f2b15d7ff4378bab632772bc919b33b1",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "create-recipe-ebook",
+    "description": "Create a themed recipe ebook with recipes, original food visuals, ingredient pages, instructions, planning extras, cover, and finished PDF. Use when the user asks for a recipe ebook, cookbook, meal-prep guide, themed recipe collection, or printable recipe product.",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 8998,
+        "sha256": "1b7b705d6d610bdd8199f52759b6f846ad41ed2b1052cea6ad0b69266b078f33",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 159,
+        "sha256": "205206db1a5cac3d558278122955b6fb9ed7f71e14319337e613b73c87986b73",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "create-worksheet-level-variants",
+    "description": "Turn one worksheet concept into beginner, standard, and advanced versions with differentiated instructions, scaffolds, and answer keys. Use when the user asks to differentiate a worksheet, make multiple difficulty levels, scaffold an activity, or create leveled practice.",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 8863,
+        "sha256": "5274f43266ba68697ef1a4330489f762cb6542ee697d076660e7dea4fc21c203",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 171,
+        "sha256": "a021bf2626a3c42a5da582bcb4effa1d2e2402f7aac07a33a874665a2e167212",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "digital-planner-tab-shape-selector",
+    "description": "Required pre-generation tab-shape selection skill for digital planners. Determines only the visual shape/style of planner tabs before image generation begins.",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 3193,
+        "sha256": "01f3723342a54330fb7304d821dc7fb08a5ebb81cba4a31d26a5ffdee5f11622",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "e-book-generator",
+    "description": "Create fully written and professionally designed e-books, guides, digital books, and optional workbook bundles in any requested page count, size, niche, theme, or uploaded reference style. Use when the user asks to generate an e-book, match a reference layout, design separate e-book pages, compile a finished PDF, or create a sellable e-book product. Do not use for a simple text-only answer unless the user specifically asks to turn it into an e-book.",
+    "files": [
+      {
+        "path": "CHANGELOG.md",
+        "bytes": 695,
+        "sha256": "9f933727fead77e1c20b1f62880bb16defdb63702f2d76f218f35bc6ab5f681d",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 14219,
+        "sha256": "95ee3140ac198cef635cb83a9ba79c18ae997c898c12b45d6ee70384517b1f62",
+        "mode": "0o644"
+      },
+      {
+        "path": "VERSION.txt",
+        "bytes": 6,
+        "sha256": "59854984853104df5c353e2f681a15fc7924742f9a2e468c29af248dce45ce03",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 567,
+        "sha256": "42fe9ed843bd51f06d8ad3697fd905b234747d91e76b4d8b88c2c8b485585e17",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/icon.svg",
+        "bytes": 1210,
+        "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee",
+        "mode": "0o644"
+      },
+      {
+        "path": "examples/QUICK_START.md",
+        "bytes": 1917,
+        "sha256": "424c10417b7ff3a16e5b18e81de0a99467dfe634a9f519b2051d0e426d951c6b",
+        "mode": "0o644"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 477,
+        "sha256": "180e951e82a27d0db02e8bed7015280ae7684e58cf3ade6460c3d06a9585b372",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/neutral-minimalist-editorial-profile.md",
+        "bytes": 2706,
+        "sha256": "704ff3853377c126830e83dbe336b95ac7b4799ac7b7051912ed11b49ddfd435",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/page-type-library.md",
+        "bytes": 1444,
+        "sha256": "532fd94d491120877f6f882671135d9db1beac7cbb961069375e9b61f10da21a",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/quality-control-checklist.md",
+        "bytes": 1162,
+        "sha256": "15a1a9e66d4c9ea8918fcc3ea6fcdcfd346ed7cdc9a4322b4a2166f27fcc297f",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/reference-matching-rules.md",
+        "bytes": 1691,
+        "sha256": "71f702768846ba4604f7615e10215d844067dab9bc9d30ec1551f9167991a65a",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "editable-ebook-workbook-creator",
+    "description": "Create a complete niche ebook with a matching workbook, checklists, trackers, templates, cover, table of contents, and sales-page content. Use for educational or business digital products that require both teaching content and practical exercises. Do not use for medical, legal, or financial claims without reliable sourcing and clear limitations.",
+    "files": [
+      {
+        "path": "README.md",
+        "bytes": 217,
+        "sha256": "c17ca9ea4ffeb1cda064acd9093bb99ff3d453ad9d37d93104fa454358efecd1",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 5097,
+        "sha256": "1393ba4cb14573cfaa66ca5d7df4c037b72681abdd6f385cdd79efa903e4b884",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 482,
+        "sha256": "473b15ba6daf7a7d044518d4ec5d3331e6173ac6833fd42ee8383a6ab86c40ae",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/icon.svg",
+        "bytes": 1210,
+        "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/examples-and-checklist.md",
+        "bytes": 993,
+        "sha256": "0f4368f7b56b358fba12e50b543062a105cc4e34d4461fa3b1e789c008d5bfc4",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "endless-digital-product-factory",
+    "description": "Create any lawful, original digital product the user requests, including custom, uncommon, hybrid, or newly invented product types, plus expandable product families and repeatable workflows. Use ChatGPT Image Generation for all original visual creation required by the deliverable. The product examples in this skill are illustrative rather than restrictive. Continue from a product ledger to generate new products without duplicating prior concepts. Do not use for brainstorming-only requests when the user explicitly wants ideas without finished deliverables.",
+    "files": [
+      {
+        "path": "README.md",
+        "bytes": 1866,
+        "sha256": "9079709e1567d7babf3b3fb065f2341b58cbf446a0b15d9dab38e905aee219c3",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 21386,
+        "sha256": "4b0cf98265fdd4535867d8b5f8775eb4546981b67682cc9c0c9a955a7b5f86d6",
+        "mode": "0o644"
+      },
+      {
+        "path": "VERSION.txt",
+        "bytes": 6,
+        "sha256": "1e5b51cde515396a9fa762909cf8ca6584ccc564b325d2eebeea76175fe95c4d",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 820,
+        "sha256": "b311161294599ac9e00117e77b1ccd4ecbba8ba36c5cc1f80d41242ee2d5c7fb",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/icon.svg",
+        "bytes": 1210,
+        "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/product-brief-template.md",
+        "bytes": 694,
+        "sha256": "e0d05dd8ccf98c21ffb89ea32038f94436ada23b6db0ef0c01fafe7fb8d1ed9b",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/product-ledger-template.csv",
+        "bytes": 235,
+        "sha256": "09f68014d90ed48f5d7fef76cbaa86d0069c9f5688e686bcdd64ea3232f6ad21",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/output-packaging.md",
+        "bytes": 1323,
+        "sha256": "4ebe5180bc3944a6a06ce98518a70cf32460a4d242b4e99884367beebca18489",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/product-expansion-matrix.md",
+        "bytes": 4555,
+        "sha256": "aee64b2bcf094bce4b02317db114c32322bfb69a3f6239210b2e9391db666dfe",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/quality-control-checklist.md",
+        "bytes": 1977,
+        "sha256": "a8cd5f6fa49892364390c031077dbc07268501ba72e449a5b1a86adbeaa29ba8",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "etsy-listing-image-generator",
+    "description": "Creates complete, cohesive, Etsy-ready listing-image sets for digital products such as invitations, digital planners, ebooks, workbooks, templates, coloring books, printable kits, courses, automation systems, and digital bundles. Uses built-in image generation for every finished listing visual and produces each requested listing image separately.",
+    "files": [
+      {
+        "path": "README_INSTALL.md",
+        "bytes": 868,
+        "sha256": "9d294ac13f78c42bd921faa27b6bbc22fcd1475684aa7939d3766ee7d112542c",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 12970,
+        "sha256": "012600c54264d4accf1a6074acba002fea13c2da18f6b02b135464802e91d0d2",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 596,
+        "sha256": "a98c192854c331bb0bf0ff6c076e0e5d12229b8981379eded9d3af4fa2e49f85",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/icon.svg",
+        "bytes": 1210,
+        "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee",
+        "mode": "0o644"
+      },
+      {
+        "path": "examples/STARTER_PROMPTS.md",
+        "bytes": 1586,
+        "sha256": "b4de261b47f9cbd5fd5b0bff56ca8947ca6e757db9733b280702cf9d8be20818",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/REFERENCE_GUIDE.md",
+        "bytes": 1205,
+        "sha256": "b562d249ad18cc689777f4049edfbb88e25ed9368402e8793cd61bd29413fc0c",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/images/01-layered-phone-hero.jpg",
+        "bytes": 372661,
+        "sha256": "b0bd2a24a029aee1b38255de1c54aa28408455e4623081d987ec515a248fd30a",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/images/02-layered-phone-hero-alt.jpg",
+        "bytes": 372429,
+        "sha256": "86016f68eb65925063e500b3a52b1cd58e8f03d7e14c6be489dc00f71fc520ad",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/images/03-mobile-scroll-rsvp.jpg",
+        "bytes": 313906,
+        "sha256": "c992e51bb65368fcb8067c07558e509db0ae68c3f04326d0ff64a1ab7c786da7",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/images/04-physical-qr-card.jpg",
+        "bytes": 513519,
+        "sha256": "2c731310bf2ecfcaa90728fae268f23f49930cc206661b2e4d59ed8f498b3f3b",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/images/05-feature-links-and-music.jpg",
+        "bytes": 394918,
+        "sha256": "8daefc59afdc2a716246144bf5f6d9ffc1d8e0e9279dcb794952781d849f092a",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/images/06-laptop-desktop-overview.jpg",
+        "bytes": 308055,
+        "sha256": "86c41cc0cf4ded701f43972cf2cda1938498396e0049e487aff82cc3b25ac42f",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/images/07-mobile-pages-overview.jpg",
+        "bytes": 392032,
+        "sha256": "282bebe62fb89f7bd6926568bc171a54a32a699d6d75c9e0e9fcd5eaeedeb298",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/reference-index.json",
+        "bytes": 1303,
+        "sha256": "6e5306d50afd1df19377996682d343c5db6a398dedf27a7fbc7893ed81e6356b",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "hyperlink-digital-planner-pdf",
+    "description": "Creates and verifies genuinely clickable hyperlinked digital-planner PDFs from approved planner page images or an existing PDF. Use when the user asks to hyperlink planner tabs, navigation buttons, months, sections, index items, or page thumbnails; assemble planner images into a PDF; repair broken planner links; or test a GoodNotes, Notability, Canva, or tablet planner PDF.",
+    "files": [
+      {
+        "path": "LICENSE.txt",
+        "bytes": 549,
+        "sha256": "7ac96eabdab57aa869b36471278a84820bd11659eb191fb3cb56915337ed9147",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 11084,
+        "sha256": "a54752af4c325297ac26bb51279e3967d1b1fc34a0173113628f098f86151891",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 169,
+        "sha256": "8b67449ce6a84007341d79cf423e178f656e7e45b4a6ce468f651b5c7d521bbd",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/hyperlink-map-template.json",
+        "bytes": 1043,
+        "sha256": "17ea65f1d11202e5bf89f9366f5f845d1dfe61c4df373da215ad1e75afb4c6b4",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/planner-visual-reference.jpg",
+        "bytes": 60905,
+        "sha256": "a80e0d7a2441fbf0070e0431b8e9ef4b638a701d49581ba6b6ee265079730664",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/all-in-one-planner-standard.md",
+        "bytes": 10197,
+        "sha256": "fc17b4ecfb85a312d2b695934e0532ba8038d42e5f3841f328195570b6010367",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/coordinate-guide.md",
+        "bytes": 807,
+        "sha256": "4aeaf5ea849b37b1017cf86ed77f021e20f26fb243975dabe9a05ecb9eab55b1",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/customer-intake.md",
+        "bytes": 476,
+        "sha256": "596c7cdecb1e153125d97c2ba6cda5bf30b214b602286c65b4857737f3c8be76",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/qa-checklist.md",
+        "bytes": 1126,
+        "sha256": "f8ecdd015221e72b5cc852152ed58b3e7576ac439538d7e121fc149ae001a4a3",
+        "mode": "0o644"
+      },
+      {
+        "path": "scripts/build_pdf_from_images.py",
+        "bytes": 1565,
+        "sha256": "bdacdaf6e0e4cc3566cc4f2ff8cc407592baafd9813a064dc40052f28f69d5b8",
+        "mode": "0o644"
+      },
+      {
+        "path": "scripts/hyperlink_planner_pdf.py",
+        "bytes": 6272,
+        "sha256": "33e0ea8b23a3cc41fd2db4783f2883b800bb026c58a7d52a54ec5ce29fd74d1d",
+        "mode": "0o644"
+      },
+      {
+        "path": "scripts/inspect_pdf_links.py",
+        "bytes": 3778,
+        "sha256": "f9027998593708a343b44ad7ad7becdef33bc2221487c9fcf9679dec78317b88",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "kdp-interior-page-creator",
+    "description": "Creates coordinated KDP interior pages, worksheets, trackers, prompts, dividers, and title pages using ChatGPT Image Generation 2.0.",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 9541,
+        "sha256": "33859eb3c51903f6bc8100f234d4aac77d3aab69d18ff7f864566ffde53bcb41",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 165,
+        "sha256": "b9df94d9deb2443d82c76e1d912f66b2f7623182c0fc7647d3640a2250056e1d",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "kdp-product-bundle-creator",
+    "description": "Creates coordinated KDP product families and companion products with matching visual systems, interiors, covers, and listings.",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 9181,
+        "sha256": "9ca65bc69a7afa60c3479d0028b3859b8573e4fd458a955ec62814111e7e318e",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 166,
+        "sha256": "eab6c6d5a3c71108faec86fe9aae02228abf398ac0ae53fd5cc32678083b7c67",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "low-content-kdp-book-creator",
+    "description": "Creates complete low-content KDP products such as journals, notebooks, planners, trackers, logbooks, and record books.",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 9746,
+        "sha256": "925328c371346399b09f97ed3157be53357926d6cadfca588f8e52eccb68b318",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 168,
+        "sha256": "4b7feb991e19fb8653389f73e4c8c304de33c232745a5abe2182697699e8e60b",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "planner-quality-control",
+    "description": "Use when reviewing a digital or printable planner, journal, calendar, tracker, or workbook for production errors. Use before publishing or after batch generation. Do not use to design the planner from scratch unless paired with a creation skill.",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 5484,
+        "sha256": "4075ebd17a7d2ba87e9af6d841d2fee80a6e432ba2d4406ba3a767180adab226",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 335,
+        "sha256": "a1697a2151bb89e77e5fd6f1588fbe6100be0c25e7ac560961f4edcc9fccb80a",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/planner-visual-reference.jpg",
+        "bytes": 60905,
+        "sha256": "a80e0d7a2441fbf0070e0431b8e9ef4b638a701d49581ba6b6ee265079730664",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/INPUT_WORKSHEET.md",
+        "bytes": 679,
+        "sha256": "ebb384e4235e76964a7545891e6c31dda2671c01823dfe17c43f448e8de12b92",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/OUTPUT_RECORD.md",
+        "bytes": 775,
+        "sha256": "acb8273cfdba8e21beb20efa67e109274db996ea5b40ece6d130da5bbcca0b43",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/all-in-one-planner-standard.md",
+        "bytes": 10197,
+        "sha256": "fc17b4ecfb85a312d2b695934e0532ba8038d42e5f3841f328195570b6010367",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "puzzle-activity-book-creator",
+    "description": "Creates complete puzzle and activity books, including page plans, original puzzle content, image-generated activity pages, answer keys, and covers.",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "bytes": 9103,
+        "sha256": "23aafe92a6dd6b15dfddf3a523e807c1c89ef520b12dc7e8ef13863ac5e5f1fa",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 168,
+        "sha256": "e9a33b0d1cd768cc2ddd0b9e17824443b73c2497d51d01fb96fffe24accd15e3",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "seasonal-digital-product-bundle-creator",
+    "description": "Create complete, coordinated digital-product collections around a holiday, season, celebration, or annual event. Use for themed sellable bundles, product manifests, individual printable or digital assets, listing previews, packaging copy, and buyer instructions. Do not use for one unrelated standalone graphic.",
+    "files": [
+      {
+        "path": "README.md",
+        "bytes": 231,
+        "sha256": "1ee1e8f35469594c473db24bad80c94b535c35d4efa908317769f2cee5943a1b",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 4963,
+        "sha256": "c27e74d8f4e9a09cedfbea183b4c3aaa1d97c8752199eb6cf9c38a03edbcd19a",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 464,
+        "sha256": "65824b1ec4d71ddc568c99d679ee91600e401718869e4cf1a4ac769f1e1fdc30",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/icon.svg",
+        "bytes": 1210,
+        "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/examples-and-checklist.md",
+        "bytes": 984,
+        "sha256": "32be682ae12add015bb1fae4bbe69ccf5100579e02a57d8519f87c19c724a683",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "small-business-branding-kit-automation",
+    "description": "Create a complete small-business branding kit including brand names, slogans, customer profiles, positioning, palettes, font directions, logo concepts, submarks, patterns, social templates, brand voice, and guidelines. Use for new brands, rebrands, and sellable branding-kit products. Do not perform trademark clearance or promise name availability.",
+    "files": [
+      {
+        "path": "README.md",
+        "bytes": 229,
+        "sha256": "8ab15938ab54c54582d2546e7f85b3667a05e4cd3daa6f96415294d89d2bb18e",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 5095,
+        "sha256": "f9c2f5aa7c2228ce6b8ddc8e91db83f1fa0f7a8a010f1944e2371f3e56beac9b",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 450,
+        "sha256": "a3dbb0c979605319f00e17fd70cfb2031a9b6ab7e74d1e2c4e795a05ac51e8a6",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/icon.svg",
+        "bytes": 1210,
+        "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/examples-and-checklist.md",
+        "bytes": 973,
+        "sha256": "b76ae2a12b18b597b228be1996b26d55ac27a4e746dcfe1ee49320be042904ac",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "teacher-resource-automation",
+    "description": "Create teacher resource packs such as lesson planners, classroom posters, behavior charts, reward coupons, homework trackers, worksheets, assessments, answer keys, and substitute-teacher binders. Use for grade-appropriate classroom resources and printable packs. Do not claim standards alignment without verifying the named standards.",
+    "files": [
+      {
+        "path": "README.md",
+        "bytes": 207,
+        "sha256": "392e737e9e9f087738596033e846012556122b8aca6cb95a231a4cfc752f7291",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 4921,
+        "sha256": "19623db060fe7f4fe6cf784547e6ab2fb6e1535ecdcf80dfb2543e643be36f1a",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 433,
+        "sha256": "2d9fe73a97053b2dce398e219919b8bada4c2c00519215d9bcc7a4d7716cccfa",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/icon.svg",
+        "bytes": 1210,
+        "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/examples-and-checklist.md",
+        "bytes": 949,
+        "sha256": "259833a49b239a2aa8f476fa0bde7074db489dad923c77c78ab66215f908736e",
+        "mode": "0o644"
+      }
+    ]
+  },
+  {
+    "name": "youtube-branding-kit-creator",
+    "description": "Create complete YouTube branding kits with channel banners, profile images, watermarks, thumbnail systems, end screens, subscribe graphics, lower thirds, title cards, community graphics, listing previews, and brand guidance. Use when the user wants coordinated YouTube assets generated separately. Do not copy a marketplace kit or place a person in every asset.",
+    "files": [
+      {
+        "path": "README.md",
+        "bytes": 209,
+        "sha256": "ba93550feb145fa8aad52d2edbc551910eb4e132f1bcf9378c9899271746f6df",
+        "mode": "0o644"
+      },
+      {
+        "path": "SKILL.md",
+        "bytes": 6362,
+        "sha256": "c811af060f32ecf71c7c634067942dbded2f9e37addca8f1df707c3de1aa90da",
+        "mode": "0o644"
+      },
+      {
+        "path": "agents/openai.yaml",
+        "bytes": 484,
+        "sha256": "f5fa7b693486b135bc440ec175d5b4660342d74a2bfc7de3638c343abc9f5cf7",
+        "mode": "0o644"
+      },
+      {
+        "path": "assets/icon.svg",
+        "bytes": 1210,
+        "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee",
+        "mode": "0o644"
+      },
+      {
+        "path": "references/examples-and-checklist.md",
+        "bytes": 1009,
+        "sha256": "b6bdac73aa53bd77ac2fd1cc97afe5cb172bfba2c72fd1d18b429573942e28ac",
+        "mode": "0o644"
+      }
+    ]
+  }
+]

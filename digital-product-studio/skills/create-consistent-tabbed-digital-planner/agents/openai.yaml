@@ -1,0 +1,8 @@
+interface:
+  display_name: Create Consistent Tabbed Digital Planner
+  short_description: Create full-canvas planners with locked tabs
+  default_prompt: Use $create-consistent-tabbed-digital-planner to generate every
+    functional planner page separately at full canvas size with identical locked tabs
+    and no exterior background.
+policy:
+  allow_implicit_invocation: true

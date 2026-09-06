@@ -1,0 +1,102 @@
+[
+  {
+    "path": "skills/canva-social-media-template-pack-creator/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/childrens-kdp-book-creator/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation. Added required interface.short_description."
+  },
+  {
+    "path": "skills/create-any-product-mockup/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/create-coloring-book-collection/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation. Added required interface.short_description."
+  },
+  {
+    "path": "skills/create-consistent-tabbed-digital-planner/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/create-digital-paper-pack/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation. Added required interface.short_description."
+  },
+  {
+    "path": "skills/create-etsy-product-automation/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/create-product-listing/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/create-recipe-ebook/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation. Added required interface.short_description."
+  },
+  {
+    "path": "skills/create-worksheet-level-variants/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation. Added required interface.short_description."
+  },
+  {
+    "path": "skills/e-book-generator/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/editable-ebook-workbook-creator/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/endless-digital-product-factory/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/etsy-listing-image-generator/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/hyperlink-digital-planner-pdf/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation. Added required interface.short_description."
+  },
+  {
+    "path": "skills/kdp-interior-page-creator/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation. Added required interface.short_description."
+  },
+  {
+    "path": "skills/kdp-product-bundle-creator/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation. Added required interface.short_description."
+  },
+  {
+    "path": "skills/low-content-kdp-book-creator/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation. Added required interface.short_description."
+  },
+  {
+    "path": "skills/planner-quality-control/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/puzzle-activity-book-creator/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation. Added required interface.short_description."
+  },
+  {
+    "path": "skills/seasonal-digital-product-bundle-creator/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/small-business-branding-kit-automation/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/teacher-resource-automation/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/youtube-branding-kit-creator/agents/openai.yaml",
+    "reason": "Removed unsupported policy.products; retained implicit invocation."
+  },
+  {
+    "path": "skills/hyperlink-digital-planner-pdf/scripts/hyperlink_planner_pdf.py",
+    "reason": "Replaced nonexistent Page.delete_links() with iteration over Page.get_links() and supported Page.delete_link(); tested replacement without duplicate annotations or changed artwork."
+  }
+]

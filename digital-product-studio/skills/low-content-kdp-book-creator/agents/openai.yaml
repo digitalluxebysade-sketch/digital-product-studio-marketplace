@@ -1,0 +1,5 @@
+interface:
+  display_name: low content kdp book creator
+  short_description: Create complete journals, trackers, and KDP logbooks
+policy:
+  allow_implicit_invocation: true

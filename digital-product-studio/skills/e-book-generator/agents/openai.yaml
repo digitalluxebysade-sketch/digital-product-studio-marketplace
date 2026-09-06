@@ -1,0 +1,12 @@
+interface:
+  display_name: E-Book Generator
+  short_description: Creates complete custom e-books in any page count, theme, and
+    reference style.
+  brand_color: '#D8CFC0'
+  default_prompt: Create a complete custom e-book. Follow my requested page count,
+    theme, size, content, and any uploaded reference layout. Generate every page separately,
+    proofread it, compile the final PDF, and package the files.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

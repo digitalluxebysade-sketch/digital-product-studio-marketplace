@@ -1,0 +1,5 @@
+interface:
+  display_name: kdp product bundle creator
+  short_description: Build coordinated KDP books and companion products
+policy:
+  allow_implicit_invocation: true

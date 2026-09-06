@@ -1,0 +1,34 @@
+{
+  "library_name": "Etsy Listing Image Generator Visual References",
+  "usage": "Private composition and merchandising inspiration only. Do not copy exact text, names, photos, watermarks, or artwork.",
+  "references": [
+    {
+      "file": "images/01-layered-phone-hero.jpg",
+      "tags": ["hero", "phones", "floral", "quinceanera", "rsvp", "metallic badge", "circular callout"]
+    },
+    {
+      "file": "images/02-layered-phone-hero-alt.jpg",
+      "tags": ["hero", "phones", "floral", "quinceanera", "alternate reference"]
+    },
+    {
+      "file": "images/03-mobile-scroll-rsvp.jpg",
+      "tags": ["handheld phone", "vertical invitation", "rsvp", "feature icons", "mobile scroll"]
+    },
+    {
+      "file": "images/04-physical-qr-card.jpg",
+      "tags": ["printed card", "front and back", "qr code", "fabric mockup", "canva"]
+    },
+    {
+      "file": "images/05-feature-links-and-music.jpg",
+      "tags": ["what is included", "maps", "music", "arrows", "phone mockups", "features"]
+    },
+    {
+      "file": "images/06-laptop-desktop-overview.jpg",
+      "tags": ["desktop view", "laptop grid", "page overview", "compatibility"]
+    },
+    {
+      "file": "images/07-mobile-pages-overview.jpg",
+      "tags": ["mobile view", "phone grid", "page overview", "invitation pages"]
+    }
+  ]
+}

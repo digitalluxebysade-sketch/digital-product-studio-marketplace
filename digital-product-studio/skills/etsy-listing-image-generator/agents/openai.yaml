@@ -1,0 +1,11 @@
+interface:
+  display_name: etsy listing image generator
+  short_description: Creates complete, cohesive, Etsy-ready listing-image sets for
+    digital products such as invitations, digital planners, ebooks, workbooks, templates,
+    coloring books, printable kits, courses, automation systems, and digital bundles.
+    Uses built-in image generation for every finished listing visual and produces
+    each requested listing image separately.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

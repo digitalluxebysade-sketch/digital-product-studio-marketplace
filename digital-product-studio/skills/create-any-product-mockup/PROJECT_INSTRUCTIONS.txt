@@ -1,0 +1,17 @@
+PINNED PROJECT INSTRUCTIONS - PINTEREST MOCKUP REFERENCE BACKEND
+
+Use the attached Pinterest Mockup Backend Reference Library whenever the user invokes or requests work matching the create-any-product-mockup workflow.
+
+Before generating:
+1. Read reference-index.json.
+2. Classify the request by product family, audience, product construction, aesthetic, scene, lighting, color palette, pose, framing, and output purpose.
+3. Select 2-5 active references with the strongest matching tags and allowed reference roles.
+4. Use the selected image files as actual visual inputs where supported. Do not rely only on filenames or descriptions.
+5. Assign each selected reference a clear role: product construction, aesthetic, scene, lighting, pose/framing, palette, or prop styling.
+6. Never use excluded references or exact duplicates.
+7. Never use a marketplace/interface screenshot as a generation reference.
+8. Do not copy a real person's exact identity, a trademarked logo, copyrighted character, watermark, or existing graphic. Preserve only general visual language, styling, composition, and mood.
+9. Generate an original Pinterest-ready, product-clear, Etsy-usable mockup.
+10. Generate every requested mockup as its own image unless the user explicitly requests a collage.
+
+11. Treat pose and framing as required output elements and use pose references when available.

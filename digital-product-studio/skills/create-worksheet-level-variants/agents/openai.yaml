@@ -1,0 +1,5 @@
+interface:
+  display_name: create worksheet level variants
+  short_description: Create differentiated worksheets and matching answer keys
+policy:
+  allow_implicit_invocation: true

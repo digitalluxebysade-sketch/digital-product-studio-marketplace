@@ -1,0 +1,6059 @@
+{
+  "summary": {
+    "version": "2.0.0",
+    "source_archive": "pdf24_nupPdf.zip",
+    "total_source_files": 199,
+    "active_unique_references": 197,
+    "excluded_interface_screenshots": 1,
+    "excluded_exact_duplicates": 3,
+    "category_counts_active": {
+      "apparel_children": 11,
+      "apparel_mannequin_product_only": 15,
+      "apparel_men": 42,
+      "apparel_women": 56,
+      "beauty_hair_makeup_portraits": 7,
+      "digital_product_device_mockups": 14,
+      "drinkware_ceramic_mugs": 12,
+      "drinkware_tumblers_bottles": 14,
+      "interior_bedroom_workspace_scenes": 9,
+      "other_product_lifestyle_scenes": 2,
+      "phone_cases_accessories": 15
+    },
+    "selection_default": "Select 2-5 highly relevant active references per generation. Never send the entire library.",
+    "privacy": "Private inspiration/reference library. Do not redistribute the source images in a customer-facing product unless properly licensed."
+  },
+  "references": [
+    {
+      "id": "REF-0001",
+      "source_pdf": "008e59f318f68d360bcef2e3f9debe91.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0001.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0002",
+      "source_pdf": "022303fda20c4cf02b37d4255a158ffb.pdf",
+      "image_path": "reference_library/apparel_men/REF-0002.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0003",
+      "source_pdf": "022a176e047a7658fbb076b29ab136f8.pdf",
+      "image_path": "reference_library/drinkware_ceramic_mugs/REF-0003.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_ceramic_mugs",
+      "audience": null,
+      "product_family": "ceramic_mug",
+      "tags": [
+        "drinkware",
+        "ceramic",
+        "cute",
+        "cozy",
+        "pinterest_product_photo",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0004",
+      "source_pdf": "029e456f759a41a75195e7fdf224c693.pdf",
+      "image_path": "reference_library/apparel_women/REF-0004.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0005",
+      "source_pdf": "02cda33ec4fa6c059d3a4dc3b9c1dbc4.pdf",
+      "image_path": "reference_library/other_product_lifestyle_scenes/REF-0005.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "other_product_lifestyle_scenes",
+      "audience": null,
+      "product_family": "other_product",
+      "tags": [
+        "lifestyle_product",
+        "cozy_scene",
+        "composition",
+        "desk_or_workspace"
+      ],
+      "allowed_reference_roles": [
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0008",
+      "source_pdf": "0420c837ad935670476463c6004c9cf4.pdf",
+      "image_path": "reference_library/apparel_men/REF-0008.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0009",
+      "source_pdf": "0457fa9082a3ff8f0dbd130b58b61105.pdf",
+      "image_path": "reference_library/drinkware_ceramic_mugs/REF-0009.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_ceramic_mugs",
+      "audience": null,
+      "product_family": "ceramic_mug",
+      "tags": [
+        "drinkware",
+        "ceramic",
+        "cute",
+        "cozy",
+        "pinterest_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "visible_interface_or_marketing_overlay_use_visual_elements_only",
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0010",
+      "source_pdf": "04f2881d6e925cfd6e30587582d30581.pdf",
+      "image_path": "reference_library/interior_bedroom_workspace_scenes/REF-0010.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "interior_bedroom_workspace_scenes",
+      "audience": null,
+      "product_family": "scene_only",
+      "tags": [
+        "cozy_bedroom",
+        "workspace",
+        "warm_light",
+        "soft_neutral",
+        "pinterest_interior",
+        "bedding_scene",
+        "soft_textiles",
+        "desk_or_workspace"
+      ],
+      "allowed_reference_roles": [
+        "scene",
+        "lighting",
+        "palette",
+        "prop_styling",
+        "background_environment"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0011",
+      "source_pdf": "080d7b83b8f6071ad45e7b65b60fd805.pdf",
+      "image_path": "reference_library/apparel_men/REF-0011.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0012",
+      "source_pdf": "08c20493906a023f80ba49daa9f230bf.pdf",
+      "image_path": "reference_library/apparel_men/REF-0012.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0013",
+      "source_pdf": "0a449257c19ff00ad85bcdd6ef2314a7.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0013.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0014",
+      "source_pdf": "0bb2cdef40d0418d9c5f826be22dc3f9.pdf",
+      "image_path": "reference_library/apparel_women/REF-0014.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0015",
+      "source_pdf": "0c80d534b0a02241b69294e978b569e7.pdf",
+      "image_path": "reference_library/other_product_lifestyle_scenes/REF-0015.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "other_product_lifestyle_scenes",
+      "audience": null,
+      "product_family": "other_product",
+      "tags": [
+        "lifestyle_product",
+        "cozy_scene",
+        "composition"
+      ],
+      "allowed_reference_roles": [
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0016",
+      "source_pdf": "0cc08c928aef7633985c5ebdc5daaf77.pdf",
+      "image_path": "reference_library/apparel_women/REF-0016.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0017",
+      "source_pdf": "0e7ce0b709834cf7a43f57be9ea92b11.pdf",
+      "image_path": "reference_library/drinkware_ceramic_mugs/REF-0017.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_ceramic_mugs",
+      "audience": null,
+      "product_family": "ceramic_mug",
+      "tags": [
+        "drinkware",
+        "ceramic",
+        "cute",
+        "cozy",
+        "pinterest_product_photo",
+        "handheld"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0018",
+      "source_pdf": "106d32736111ef6bf61d16b9fea5ace5.pdf",
+      "image_path": "reference_library/beauty_hair_makeup_portraits/REF-0018.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "beauty_hair_makeup_portraits",
+      "audience": "adult",
+      "product_family": "beauty_reference",
+      "tags": [
+        "beauty",
+        "hair",
+        "makeup",
+        "portrait_lighting",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "hair_style",
+        "makeup_direction",
+        "portrait_lighting",
+        "closeup_framing"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Never copy or recreate the person's identity or exact face.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0019",
+      "source_pdf": "116c45f9aa2b40b874cb43cb8b2334da.pdf",
+      "image_path": "reference_library/apparel_children/REF-0019.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_children",
+      "audience": "children",
+      "product_family": "apparel",
+      "tags": [
+        "childrens_apparel",
+        "age_appropriate",
+        "commercial_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use only for age-appropriate child apparel and neutral commercial presentation.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0020",
+      "source_pdf": "1243d8baca132d5901d09c1fa9992bdb.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0020.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0021",
+      "source_pdf": "1953d42a949970f3989b270ab6ebf2a0.pdf",
+      "image_path": "reference_library/apparel_women/REF-0021.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0022",
+      "source_pdf": "199b3033fd10114c3831cfb8dace630e.pdf",
+      "image_path": "reference_library/drinkware_ceramic_mugs/REF-0022.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_ceramic_mugs",
+      "audience": null,
+      "product_family": "ceramic_mug",
+      "tags": [
+        "drinkware",
+        "ceramic",
+        "cute",
+        "cozy",
+        "pinterest_product_photo",
+        "handheld"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0023",
+      "source_pdf": "19a06e5f7d0f177d724e4c8fdfe3c583.pdf",
+      "image_path": "reference_library/beauty_hair_makeup_portraits/REF-0023.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "beauty_hair_makeup_portraits",
+      "audience": "adult",
+      "product_family": "beauty_reference",
+      "tags": [
+        "beauty",
+        "hair",
+        "makeup",
+        "portrait_lighting",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "hair_style",
+        "makeup_direction",
+        "portrait_lighting",
+        "closeup_framing"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Never copy or recreate the person's identity or exact face.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0024",
+      "source_pdf": "1a6e9219ff12cac1471977dfb92979e1.pdf",
+      "image_path": "reference_library/apparel_children/REF-0024.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_children",
+      "audience": "children",
+      "product_family": "apparel",
+      "tags": [
+        "childrens_apparel",
+        "age_appropriate",
+        "commercial_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use only for age-appropriate child apparel and neutral commercial presentation.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0025",
+      "source_pdf": "1b120e9fb29073caa468eb97459b7435.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0025.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0027",
+      "source_pdf": "1cac1851613132b02bfab7bcf3af4286.pdf",
+      "image_path": "reference_library/apparel_women/REF-0027.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0028",
+      "source_pdf": "1f5541b9d6f05341fe90f2251ec9c7cc.pdf",
+      "image_path": "reference_library/apparel_children/REF-0028.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_children",
+      "audience": "children",
+      "product_family": "apparel",
+      "tags": [
+        "childrens_apparel",
+        "age_appropriate",
+        "commercial_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use only for age-appropriate child apparel and neutral commercial presentation.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0029",
+      "source_pdf": "21185379e8d735b920b0699cafa8f29a.pdf",
+      "image_path": "reference_library/apparel_women/REF-0029.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "mirror_selfie",
+        "casual_lifestyle"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0030",
+      "source_pdf": "22485424b384b81bbc8621069837d0d2.pdf",
+      "image_path": "reference_library/apparel_women/REF-0030.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0032",
+      "source_pdf": "25753df2a524c049bb37be7e7ef27f64.pdf",
+      "image_path": "reference_library/apparel_men/REF-0032.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0033",
+      "source_pdf": "26a2d35896739f23b7af745614ca1dcf.pdf",
+      "image_path": "reference_library/apparel_women/REF-0033.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0034",
+      "source_pdf": "2705c78d118aff5f0322cd5da3229ae4.pdf",
+      "image_path": "reference_library/apparel_men/REF-0034.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0035",
+      "source_pdf": "27b90bfd32e5b38eea70890a365848fc.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0035.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0037",
+      "source_pdf": "2867f424cf35773c11e34b584781fe93.pdf",
+      "image_path": "reference_library/apparel_men/REF-0037.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0038",
+      "source_pdf": "2991e7fd79f88a4f527acf4ec65d8e88.pdf",
+      "image_path": "reference_library/apparel_children/REF-0038.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_children",
+      "audience": "children",
+      "product_family": "apparel",
+      "tags": [
+        "childrens_apparel",
+        "age_appropriate",
+        "commercial_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use only for age-appropriate child apparel and neutral commercial presentation.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0041",
+      "source_pdf": "2d8fd475b8f542e48813284c3b782cce.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0041.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0042",
+      "source_pdf": "2e7ac7b99f42fe15379adcfd195e66a4.pdf",
+      "image_path": "reference_library/apparel_women/REF-0042.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0043",
+      "source_pdf": "2f8a299b2ad949b50b982f1fb64570c0.pdf",
+      "image_path": "reference_library/apparel_women/REF-0043.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0044",
+      "source_pdf": "2feafbe395f53decd94cd7ee93a11350.pdf",
+      "image_path": "reference_library/drinkware_ceramic_mugs/REF-0044.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_ceramic_mugs",
+      "audience": null,
+      "product_family": "ceramic_mug",
+      "tags": [
+        "drinkware",
+        "ceramic",
+        "cute",
+        "cozy",
+        "pinterest_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0045",
+      "source_pdf": "32f323a7e0c35ab1510ea7c98535e455.pdf",
+      "image_path": "reference_library/apparel_women/REF-0045.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0046",
+      "source_pdf": "34f190288291e75cddf706ec39fcedcf.pdf",
+      "image_path": "reference_library/apparel_women/REF-0046.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0047",
+      "source_pdf": "372725aa0d3e054ea3ef34a945074a15.pdf",
+      "image_path": "reference_library/apparel_women/REF-0047.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0048",
+      "source_pdf": "377eaa042cef6ac562609e09d5eccee8.pdf",
+      "image_path": "reference_library/apparel_men/REF-0048.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0049",
+      "source_pdf": "379b9091f7fdca9318b89d06f1ca715b.pdf",
+      "image_path": "reference_library/apparel_women/REF-0049.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0050",
+      "source_pdf": "3950d044a72ad35b208d105289b7f6f8.pdf",
+      "image_path": "reference_library/apparel_women/REF-0050.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0051",
+      "source_pdf": "3a87d3c4bfe846b57bce35d463479218.pdf",
+      "image_path": "reference_library/apparel_children/REF-0051.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_children",
+      "audience": "children",
+      "product_family": "apparel",
+      "tags": [
+        "childrens_apparel",
+        "age_appropriate",
+        "commercial_catalog",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use only for age-appropriate child apparel and neutral commercial presentation.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0052",
+      "source_pdf": "3be241f7fe07aed01142b958a00de50e.pdf",
+      "image_path": "reference_library/apparel_men/REF-0052.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0053",
+      "source_pdf": "3c367f7c3dac73f666b9483e0899a2dc.pdf",
+      "image_path": "reference_library/apparel_men/REF-0053.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0054",
+      "source_pdf": "3e4fcc9df7cb20850d8e2a685b6dbdcb.pdf",
+      "image_path": "reference_library/apparel_men/REF-0054.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0055",
+      "source_pdf": "3e7b594da716c0a88f7babc967840c84.pdf",
+      "image_path": "reference_library/apparel_men/REF-0055.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0057",
+      "source_pdf": "4308cd3370ae6ded801de573224bf132.pdf",
+      "image_path": "reference_library/apparel_women/REF-0057.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0058",
+      "source_pdf": "43ecc2fbc52f10ce32f27ee5c90effec.pdf",
+      "image_path": "reference_library/apparel_women/REF-0058.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0059",
+      "source_pdf": "4455ce22c601d2c949f2d07c09f73223.pdf",
+      "image_path": "reference_library/beauty_hair_makeup_portraits/REF-0059.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "beauty_hair_makeup_portraits",
+      "audience": "adult",
+      "product_family": "beauty_reference",
+      "tags": [
+        "beauty",
+        "hair",
+        "makeup",
+        "portrait_lighting",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "hair_style",
+        "makeup_direction",
+        "portrait_lighting",
+        "closeup_framing"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Never copy or recreate the person's identity or exact face.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0060",
+      "source_pdf": "46e46fd80f3d172808aba2ade076dadc (1).pdf",
+      "image_path": "reference_library/apparel_men/REF-0060.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0061",
+      "source_pdf": "46e46fd80f3d172808aba2ade076dadc.pdf",
+      "image_path": "excluded/duplicates/REF-0061.jpg",
+      "active": false,
+      "duplicate_of": "REF-0060",
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [
+        "exact_duplicate"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0062",
+      "source_pdf": "48d2ea038ebacbe603a10a4050c08c09.pdf",
+      "image_path": "reference_library/apparel_men/REF-0062.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0063",
+      "source_pdf": "4a021ce1991d1258cf8ad84b2a009bfb.pdf",
+      "image_path": "reference_library/apparel_women/REF-0063.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0064",
+      "source_pdf": "4a8d4db17b3b141ae64caa6af81391c4.pdf",
+      "image_path": "reference_library/apparel_women/REF-0064.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0065",
+      "source_pdf": "4b882a5c76603486f239e8722d3945e5.pdf",
+      "image_path": "reference_library/interior_bedroom_workspace_scenes/REF-0065.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "interior_bedroom_workspace_scenes",
+      "audience": null,
+      "product_family": "scene_only",
+      "tags": [
+        "cozy_bedroom",
+        "workspace",
+        "warm_light",
+        "soft_neutral",
+        "pinterest_interior",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "scene",
+        "lighting",
+        "palette",
+        "prop_styling",
+        "background_environment"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0066",
+      "source_pdf": "4cffabe768f1ab3386e4e277276076d8.pdf",
+      "image_path": "reference_library/beauty_hair_makeup_portraits/REF-0066.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "beauty_hair_makeup_portraits",
+      "audience": "adult",
+      "product_family": "beauty_reference",
+      "tags": [
+        "beauty",
+        "hair",
+        "makeup",
+        "portrait_lighting",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "hair_style",
+        "makeup_direction",
+        "portrait_lighting",
+        "closeup_framing"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Never copy or recreate the person's identity or exact face.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0068",
+      "source_pdf": "4fff768f8054b3e38e6a6e617294cf8b.pdf",
+      "image_path": "reference_library/apparel_children/REF-0068.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_children",
+      "audience": "children",
+      "product_family": "apparel",
+      "tags": [
+        "childrens_apparel",
+        "age_appropriate",
+        "commercial_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use only for age-appropriate child apparel and neutral commercial presentation.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0069",
+      "source_pdf": "51a829cd4b0cea44bfb266b82a102fde.pdf",
+      "image_path": "reference_library/apparel_women/REF-0069.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "mirror_selfie",
+        "casual_lifestyle"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0070",
+      "source_pdf": "520a5be8caf5302889980925c446756a.pdf",
+      "image_path": "reference_library/beauty_hair_makeup_portraits/REF-0070.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "beauty_hair_makeup_portraits",
+      "audience": "adult",
+      "product_family": "beauty_reference",
+      "tags": [
+        "beauty",
+        "hair",
+        "makeup",
+        "portrait_lighting",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "hair_style",
+        "makeup_direction",
+        "portrait_lighting",
+        "closeup_framing"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Never copy or recreate the person's identity or exact face.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0072",
+      "source_pdf": "53075560b27ae69c8546bb88420e9bba.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0072.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0074",
+      "source_pdf": "54c4f57233cf7a7a10fcb95aa9799248.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0074.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0076",
+      "source_pdf": "56765033deea2de51bd90a555fc2568d.pdf",
+      "image_path": "reference_library/drinkware_ceramic_mugs/REF-0076.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_ceramic_mugs",
+      "audience": null,
+      "product_family": "ceramic_mug",
+      "tags": [
+        "drinkware",
+        "ceramic",
+        "cute",
+        "cozy",
+        "pinterest_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0077",
+      "source_pdf": "575af12be6e83b8e3986b0f033992228.pdf",
+      "image_path": "reference_library/apparel_men/REF-0077.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0078",
+      "source_pdf": "57a226fb7f701142a519b8c54f56bc8d.pdf",
+      "image_path": "reference_library/apparel_women/REF-0078.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0079",
+      "source_pdf": "57ac7bd10c76c3cd8e04e9ec581d4037.pdf",
+      "image_path": "reference_library/apparel_women/REF-0079.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "mirror_selfie",
+        "casual_lifestyle"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0081",
+      "source_pdf": "5835e7ada642fc3b0083a1e4df19e7af.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0081.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo",
+        "handheld"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0082",
+      "source_pdf": "5cbf83a76392068b5a5cf4fe5ec49695.pdf",
+      "image_path": "reference_library/apparel_men/REF-0082.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0083",
+      "source_pdf": "5d58b6f10062dd7eaf543120a37b44fd.pdf",
+      "image_path": "reference_library/apparel_women/REF-0083.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0084",
+      "source_pdf": "5eeacec7b72577e72d51104bf8651ee0.pdf",
+      "image_path": "reference_library/interior_bedroom_workspace_scenes/REF-0084.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "interior_bedroom_workspace_scenes",
+      "audience": null,
+      "product_family": "scene_only",
+      "tags": [
+        "cozy_bedroom",
+        "workspace",
+        "warm_light",
+        "soft_neutral",
+        "pinterest_interior",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "scene",
+        "lighting",
+        "palette",
+        "prop_styling",
+        "background_environment"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0085",
+      "source_pdf": "5ef2244477bfc11339bed01c80e2b93c.pdf",
+      "image_path": "reference_library/apparel_children/REF-0085.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_children",
+      "audience": "children",
+      "product_family": "apparel",
+      "tags": [
+        "childrens_apparel",
+        "age_appropriate",
+        "commercial_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use only for age-appropriate child apparel and neutral commercial presentation.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0086",
+      "source_pdf": "63b32144ce349ebcf4debdd9e37ea680.pdf",
+      "image_path": "reference_library/apparel_women/REF-0086.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0087",
+      "source_pdf": "64a7047e6007838d659547430490367b.pdf",
+      "image_path": "reference_library/apparel_women/REF-0087.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0088",
+      "source_pdf": "6576ed38ea769ab9a705a34552194874.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0088.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo",
+        "desk_or_workspace"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0089",
+      "source_pdf": "65820eca0753c61a95087101e2a42d0e.pdf",
+      "image_path": "reference_library/apparel_children/REF-0089.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_children",
+      "audience": "children",
+      "product_family": "apparel",
+      "tags": [
+        "childrens_apparel",
+        "age_appropriate",
+        "commercial_catalog",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use only for age-appropriate child apparel and neutral commercial presentation.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0090",
+      "source_pdf": "6869ddecfd254d77ca083815da17ff14.pdf",
+      "image_path": "reference_library/drinkware_ceramic_mugs/REF-0090.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_ceramic_mugs",
+      "audience": null,
+      "product_family": "ceramic_mug",
+      "tags": [
+        "drinkware",
+        "ceramic",
+        "cute",
+        "cozy",
+        "pinterest_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0092",
+      "source_pdf": "6a006cac69af326d0381f00748f4f270.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0092.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0093",
+      "source_pdf": "6a53eea52d1b8d7d943f2f38b3ba54eb.pdf",
+      "image_path": "reference_library/apparel_women/REF-0093.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0094",
+      "source_pdf": "6ad2714bd7186c7e8b8cfa0a2c483ce4.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0094.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0095",
+      "source_pdf": "6d62283ed95101b15f98ee14b6429720.pdf",
+      "image_path": "reference_library/apparel_men/REF-0095.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0096",
+      "source_pdf": "6ebaf0bbc700f9b1cf0ebc5835522def.pdf",
+      "image_path": "reference_library/apparel_men/REF-0096.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0098",
+      "source_pdf": "73749dad128c185713ca6aaf11e6da60.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0098.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo",
+        "desk_or_workspace"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0099",
+      "source_pdf": "749b724e69596bb8343e36e2faf3b2a2.pdf",
+      "image_path": "reference_library/apparel_children/REF-0099.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_children",
+      "audience": "children",
+      "product_family": "apparel",
+      "tags": [
+        "childrens_apparel",
+        "age_appropriate",
+        "commercial_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use only for age-appropriate child apparel and neutral commercial presentation.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0100",
+      "source_pdf": "7a262bf7a5f7a916638a4a95825efdd1.pdf",
+      "image_path": "reference_library/drinkware_ceramic_mugs/REF-0100.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_ceramic_mugs",
+      "audience": null,
+      "product_family": "ceramic_mug",
+      "tags": [
+        "drinkware",
+        "ceramic",
+        "cute",
+        "cozy",
+        "pinterest_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0101",
+      "source_pdf": "7b351d7374cbb1484b84a3afecfe0a18.pdf",
+      "image_path": "reference_library/drinkware_ceramic_mugs/REF-0101.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_ceramic_mugs",
+      "audience": null,
+      "product_family": "ceramic_mug",
+      "tags": [
+        "drinkware",
+        "ceramic",
+        "cute",
+        "cozy",
+        "pinterest_product_photo",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0102",
+      "source_pdf": "7b94a6e6cb9e26332540218e79f8bd89.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0102.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0103",
+      "source_pdf": "7b95cef62c9b27831a497252229c5d88.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0103.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0104",
+      "source_pdf": "7bab9420a5a872735b6a2b5fba24899a.pdf",
+      "image_path": "reference_library/apparel_men/REF-0104.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0105",
+      "source_pdf": "7bdf296d774c6472a14afff3a891014a.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0105.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0106",
+      "source_pdf": "7bdfefd63062bb5b09729df5b1b0d80e.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0106.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo",
+        "handheld"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0107",
+      "source_pdf": "8099e8218d63fbdcaee4f718b98c6049.pdf",
+      "image_path": "reference_library/interior_bedroom_workspace_scenes/REF-0107.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "interior_bedroom_workspace_scenes",
+      "audience": null,
+      "product_family": "scene_only",
+      "tags": [
+        "cozy_bedroom",
+        "workspace",
+        "warm_light",
+        "soft_neutral",
+        "pinterest_interior",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "scene",
+        "lighting",
+        "palette",
+        "prop_styling",
+        "background_environment"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0108",
+      "source_pdf": "817757a88b44f1ecfe0235fc798a154d.pdf",
+      "image_path": "reference_library/apparel_women/REF-0108.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0109",
+      "source_pdf": "8281499010cd0eb0c3fa09d3165ff19f.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0109.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0110",
+      "source_pdf": "84ae663bf3efb2aabebed077844aac50.pdf",
+      "image_path": "reference_library/apparel_women/REF-0110.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0111",
+      "source_pdf": "85ebdabe91182f2ba6dcfb920a3e6eea.pdf",
+      "image_path": "reference_library/apparel_women/REF-0111.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0112",
+      "source_pdf": "86107682018420be4a1d9b7c7b82ca7e.pdf",
+      "image_path": "reference_library/apparel_women/REF-0112.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting",
+        "runway",
+        "high_fashion"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0113",
+      "source_pdf": "89747dac87898f81d6dcb5d14346b032.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0113.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo",
+        "handheld"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0114",
+      "source_pdf": "89a63bf7a8898f899801cb556e469ed5.pdf",
+      "image_path": "reference_library/apparel_women/REF-0114.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "mirror_selfie",
+        "casual_lifestyle"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0115",
+      "source_pdf": "8a1e870e788d20ae258777b5713c3495.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0115.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0116",
+      "source_pdf": "8ecef6696167979d3a3f5a4ffad492ed.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0116.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0117",
+      "source_pdf": "8ed997ae5d08eb479fa1ae955355d6a7.pdf",
+      "image_path": "reference_library/apparel_men/REF-0117.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0118",
+      "source_pdf": "8ee03c2138a83e0ace83bfd902ca947a.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0118.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0119",
+      "source_pdf": "9008af5ab2c1a6a30a469b1913595c7a.pdf",
+      "image_path": "reference_library/apparel_men/REF-0119.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0121",
+      "source_pdf": "919275d76b3009f20f43ffcd91ef95ca.pdf",
+      "image_path": "reference_library/apparel_women/REF-0121.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0122",
+      "source_pdf": "93ee206cff44878b39637ab57ab5492a.pdf",
+      "image_path": "reference_library/beauty_hair_makeup_portraits/REF-0122.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "beauty_hair_makeup_portraits",
+      "audience": "adult",
+      "product_family": "beauty_reference",
+      "tags": [
+        "beauty",
+        "hair",
+        "makeup",
+        "portrait_lighting",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "hair_style",
+        "makeup_direction",
+        "portrait_lighting",
+        "closeup_framing"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Never copy or recreate the person's identity or exact face.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0123",
+      "source_pdf": "952f433a5a42f90865697b7eab297676.pdf",
+      "image_path": "reference_library/apparel_women/REF-0123.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0124",
+      "source_pdf": "954195d86645a6ef0ecfab571e3540fe.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0124.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0125",
+      "source_pdf": "9676438405f7e7528c3d4635ab94f957.pdf",
+      "image_path": "reference_library/apparel_men/REF-0125.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0126",
+      "source_pdf": "973ecfa557a4918d936d3109e30c2b03.pdf",
+      "image_path": "reference_library/apparel_men/REF-0126.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0127",
+      "source_pdf": "992a2157b16b849c0c2f8e5837c9179b.pdf",
+      "image_path": "reference_library/apparel_men/REF-0127.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0129",
+      "source_pdf": "9c508c9ab02ac37f814733856523bf91.pdf",
+      "image_path": "reference_library/apparel_men/REF-0129.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0130",
+      "source_pdf": "Screenshot_20260716_093333_Pinterest.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0130.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0131",
+      "source_pdf": "Screenshot_20260716_093521_Pinterest.pdf",
+      "image_path": "reference_library/apparel_women/REF-0131.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0132",
+      "source_pdf": "Screenshot_20260716_093544_Pinterest.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0132.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0133",
+      "source_pdf": "Screenshot_20260716_093659_Pinterest.pdf",
+      "image_path": "excluded/interface/REF-0133.jpg",
+      "active": false,
+      "duplicate_of": null,
+      "category": "excluded_interface_screenshots",
+      "audience": null,
+      "product_family": "excluded",
+      "tags": [],
+      "allowed_reference_roles": [],
+      "quality_flags": [
+        "visible_interface_or_marketing_overlay_use_visual_elements_only",
+        "excluded_pinterest_interface_screenshot"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0134",
+      "source_pdf": "Screenshot_20260716_093714_Pinterest.pdf",
+      "image_path": "reference_library/apparel_women/REF-0134.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0135",
+      "source_pdf": "Screenshot_20260716_093747_Pinterest.pdf",
+      "image_path": "reference_library/apparel_women/REF-0135.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0136",
+      "source_pdf": "Screenshot_20260716_093805_Pinterest.pdf",
+      "image_path": "reference_library/apparel_women/REF-0136.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0137",
+      "source_pdf": "Screenshot_20260716_093828_Chrome.pdf",
+      "image_path": "reference_library/apparel_women/REF-0137.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0138",
+      "source_pdf": "Screenshot_20260716_093844_Chrome.pdf",
+      "image_path": "reference_library/apparel_women/REF-0138.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0139",
+      "source_pdf": "Screenshot_20260716_094635_Pinterest.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0139.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [
+        "visible_interface_or_marketing_overlay_use_visual_elements_only"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0140",
+      "source_pdf": "Screenshot_20260716_094721_Pinterest.pdf",
+      "image_path": "reference_library/apparel_men/REF-0140.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0141",
+      "source_pdf": "Screenshot_20260716_095353_Pinterest.pdf",
+      "image_path": "reference_library/apparel_women/REF-0141.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0142",
+      "source_pdf": "Screenshot_20260716_095409_Pinterest.pdf",
+      "image_path": "reference_library/apparel_women/REF-0142.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0143",
+      "source_pdf": "Screenshot_20260716_095558_Pinterest.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0143.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [
+        "visible_interface_or_marketing_overlay_use_visual_elements_only"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0144",
+      "source_pdf": "Screenshot_20260716_095651_Pinterest.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0144.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0145",
+      "source_pdf": "Screenshot_20260716_095720_Pinterest.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0145.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [
+        "visible_interface_or_marketing_overlay_use_visual_elements_only"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0146",
+      "source_pdf": "Screenshot_20260716_095918_Pinterest.pdf",
+      "image_path": "reference_library/apparel_women/REF-0146.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0148",
+      "source_pdf": "Screenshot_20260716_101033_Pinterest.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0148.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0151",
+      "source_pdf": "a2c9d19c30ed63a79e829f9ecf43c89b.pdf",
+      "image_path": "reference_library/interior_bedroom_workspace_scenes/REF-0151.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "interior_bedroom_workspace_scenes",
+      "audience": null,
+      "product_family": "scene_only",
+      "tags": [
+        "cozy_bedroom",
+        "workspace",
+        "warm_light",
+        "soft_neutral",
+        "pinterest_interior",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "scene",
+        "lighting",
+        "palette",
+        "prop_styling",
+        "background_environment"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0152",
+      "source_pdf": "a3561956ba7a7c129c9f41ded75d1623.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0152.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0156",
+      "source_pdf": "a8f46b0276d5d9a296603d4e267ad9f7.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0156.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo",
+        "handheld"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0157",
+      "source_pdf": "ab89561ae85257550066000783e1a0ae.pdf",
+      "image_path": "reference_library/apparel_men/REF-0157.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0158",
+      "source_pdf": "b1576e8869a7cdeb46271d36470bb4fe.pdf",
+      "image_path": "reference_library/apparel_children/REF-0158.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_children",
+      "audience": "children",
+      "product_family": "apparel",
+      "tags": [
+        "childrens_apparel",
+        "age_appropriate",
+        "commercial_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use only for age-appropriate child apparel and neutral commercial presentation.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0159",
+      "source_pdf": "b2f5577405cd727a23ee4faa98c30833.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0159.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo",
+        "handheld"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0160",
+      "source_pdf": "b50dd0feb92519a02d056e01f178b265.pdf",
+      "image_path": "reference_library/apparel_women/REF-0160.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0162",
+      "source_pdf": "b5ee09bd72a2d6b905591aaff725b7d0.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0162.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0163",
+      "source_pdf": "b7a2a66cc0254a11e35c0188a5e6bea2.pdf",
+      "image_path": "reference_library/apparel_women/REF-0163.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting",
+        "runway",
+        "high_fashion"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0164",
+      "source_pdf": "b8c6b2e0b5e7f91b2ff06a8407229eb5.pdf",
+      "image_path": "reference_library/interior_bedroom_workspace_scenes/REF-0164.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "interior_bedroom_workspace_scenes",
+      "audience": null,
+      "product_family": "scene_only",
+      "tags": [
+        "cozy_bedroom",
+        "workspace",
+        "warm_light",
+        "soft_neutral",
+        "pinterest_interior",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "scene",
+        "lighting",
+        "palette",
+        "prop_styling",
+        "background_environment"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0166",
+      "source_pdf": "bac6ed17bc346f49a86319c1cb66f91a.pdf",
+      "image_path": "reference_library/interior_bedroom_workspace_scenes/REF-0166.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "interior_bedroom_workspace_scenes",
+      "audience": null,
+      "product_family": "scene_only",
+      "tags": [
+        "cozy_bedroom",
+        "workspace",
+        "warm_light",
+        "soft_neutral",
+        "pinterest_interior",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "scene",
+        "lighting",
+        "palette",
+        "prop_styling",
+        "background_environment"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0167",
+      "source_pdf": "bff0ab3729f8116ad1361a0011175983.pdf",
+      "image_path": "reference_library/apparel_children/REF-0167.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_children",
+      "audience": "children",
+      "product_family": "apparel",
+      "tags": [
+        "childrens_apparel",
+        "age_appropriate",
+        "commercial_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use only for age-appropriate child apparel and neutral commercial presentation.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0168",
+      "source_pdf": "c017f9a136d8f4346b840edadbf9f589.pdf",
+      "image_path": "reference_library/beauty_hair_makeup_portraits/REF-0168.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "beauty_hair_makeup_portraits",
+      "audience": "adult",
+      "product_family": "beauty_reference",
+      "tags": [
+        "beauty",
+        "hair",
+        "makeup",
+        "portrait_lighting",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "hair_style",
+        "makeup_direction",
+        "portrait_lighting",
+        "closeup_framing"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Never copy or recreate the person's identity or exact face.",
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0169",
+      "source_pdf": "c02bcc186f4806f3de319c6bcadce098.pdf",
+      "image_path": "reference_library/apparel_men/REF-0169.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0170",
+      "source_pdf": "c0b379cea55b222974eb201143f2b8c8.pdf",
+      "image_path": "reference_library/drinkware_ceramic_mugs/REF-0170.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_ceramic_mugs",
+      "audience": null,
+      "product_family": "ceramic_mug",
+      "tags": [
+        "drinkware",
+        "ceramic",
+        "cute",
+        "cozy",
+        "pinterest_product_photo",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0171",
+      "source_pdf": "c13f158b7bfb98e1da239ac86c40d388.pdf",
+      "image_path": "reference_library/apparel_women/REF-0171.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0172",
+      "source_pdf": "c1c4d42ba08879becfb48a15bf0cb960.pdf",
+      "image_path": "reference_library/apparel_men/REF-0172.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0174",
+      "source_pdf": "c455b865ce601ab2c0659562371eda8c.pdf",
+      "image_path": "reference_library/apparel_men/REF-0174.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0175",
+      "source_pdf": "c49ff06dc9dcea95f28a98fce98c45a9.pdf",
+      "image_path": "reference_library/apparel_men/REF-0175.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0176",
+      "source_pdf": "c771e68af4123176ca412f7d8ad34243 (1).pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0176.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0178",
+      "source_pdf": "cc6ef3bb40fbea84b1a696e72fc83c25.pdf",
+      "image_path": "reference_library/apparel_women/REF-0178.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0179",
+      "source_pdf": "ce52409988616a7bbc7740e7ff901775.pdf",
+      "image_path": "reference_library/apparel_men/REF-0179.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0180",
+      "source_pdf": "cf7ad23bdbb90e23862cc350a14c4e2b.pdf",
+      "image_path": "reference_library/apparel_men/REF-0180.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0181",
+      "source_pdf": "d04b18933d4fde1c2a46f26b0375ed93.pdf",
+      "image_path": "reference_library/apparel_men/REF-0181.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0182",
+      "source_pdf": "d0a1bf8b69f70e7c0b0c93fd62e6b102.pdf",
+      "image_path": "reference_library/apparel_men/REF-0182.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0183",
+      "source_pdf": "d2853082942740752b5ae89e0228b8e7.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0183.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo",
+        "desk_or_workspace"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0184",
+      "source_pdf": "d2e8edac4d836e8a4f57883dea0af1ba.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0184.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0186",
+      "source_pdf": "d452a415cb0353aae936c684c66fa18e.pdf",
+      "image_path": "reference_library/apparel_women/REF-0186.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0187",
+      "source_pdf": "d4c2f6cb0427ab666a1f065d7c685e48.pdf",
+      "image_path": "reference_library/drinkware_ceramic_mugs/REF-0187.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_ceramic_mugs",
+      "audience": null,
+      "product_family": "ceramic_mug",
+      "tags": [
+        "drinkware",
+        "ceramic",
+        "cute",
+        "cozy",
+        "pinterest_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0188",
+      "source_pdf": "d4d7a482b58e74755302c070d353fb20.pdf",
+      "image_path": "reference_library/apparel_women/REF-0188.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "mirror_selfie",
+        "casual_lifestyle"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0189",
+      "source_pdf": "d50f97f71b8b3ca46de929abcd26f208.pdf",
+      "image_path": "reference_library/apparel_women/REF-0189.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0190",
+      "source_pdf": "d5dae283fc0596529940857453a8b4cb.pdf",
+      "image_path": "reference_library/apparel_men/REF-0190.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog",
+        "desk_or_workspace"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0191",
+      "source_pdf": "d610c0285b8e1c88ba427471e6cf5683.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0191.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0192",
+      "source_pdf": "d6a2df392615803ed502e36d1d063501.pdf",
+      "image_path": "reference_library/apparel_women/REF-0192.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0193",
+      "source_pdf": "d7a6a37eaf313c15967ead6a06035a13.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0193.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0194",
+      "source_pdf": "da40289a3954ea510265c722f95a476e.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0194.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0195",
+      "source_pdf": "dcbe50077031622e14a3775379cf9c8a.pdf",
+      "image_path": "reference_library/drinkware_ceramic_mugs/REF-0195.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_ceramic_mugs",
+      "audience": null,
+      "product_family": "ceramic_mug",
+      "tags": [
+        "drinkware",
+        "ceramic",
+        "cute",
+        "cozy",
+        "pinterest_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0196",
+      "source_pdf": "e0d5bb25f2ac228e192c037c14e1cea9.pdf",
+      "image_path": "reference_library/interior_bedroom_workspace_scenes/REF-0196.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "interior_bedroom_workspace_scenes",
+      "audience": null,
+      "product_family": "scene_only",
+      "tags": [
+        "cozy_bedroom",
+        "workspace",
+        "warm_light",
+        "soft_neutral",
+        "pinterest_interior",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "scene",
+        "lighting",
+        "palette",
+        "prop_styling",
+        "background_environment"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0197",
+      "source_pdf": "e1c93d957e485d83ac735e556debd223.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0197.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0198",
+      "source_pdf": "e239ea023bc357929430244adde98e45.pdf",
+      "image_path": "reference_library/apparel_mannequin_product_only/REF-0198.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_mannequin_product_only",
+      "audience": "adult_or_product_only",
+      "product_family": "apparel",
+      "tags": [
+        "mannequin",
+        "product_only",
+        "garment_construction",
+        "flatlay_or_catalog",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "product_construction",
+        "garment_silhouette",
+        "layering",
+        "fabric_behavior",
+        "color_palette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0199",
+      "source_pdf": "e4a1a054eb105d1348ba649f2f9b8e09.pdf",
+      "image_path": "reference_library/apparel_men/REF-0199.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0200",
+      "source_pdf": "e5ba931a53c8c9449e7124c600e3ddbb.pdf",
+      "image_path": "reference_library/drinkware_tumblers_bottles/REF-0200.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "drinkware_tumblers_bottles",
+      "audience": null,
+      "product_family": "tumbler_or_bottle",
+      "tags": [
+        "drinkware",
+        "glass_or_acrylic",
+        "bows",
+        "florals",
+        "pinterest_product_photo",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "product_shape",
+        "surface_decoration",
+        "scene",
+        "lighting",
+        "composition",
+        "prop_styling"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0201",
+      "source_pdf": "e605fd9fd97c49bc429e39926dea8827.pdf",
+      "image_path": "reference_library/interior_bedroom_workspace_scenes/REF-0201.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "interior_bedroom_workspace_scenes",
+      "audience": null,
+      "product_family": "scene_only",
+      "tags": [
+        "cozy_bedroom",
+        "workspace",
+        "warm_light",
+        "soft_neutral",
+        "pinterest_interior",
+        "bedding_scene",
+        "soft_textiles"
+      ],
+      "allowed_reference_roles": [
+        "scene",
+        "lighting",
+        "palette",
+        "prop_styling",
+        "background_environment"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0204",
+      "source_pdf": "eb5d7445dbc2c2b23175ccfe447b9174.pdf",
+      "image_path": "reference_library/phone_cases_accessories/REF-0204.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "phone_cases_accessories",
+      "audience": null,
+      "product_family": "phone_case",
+      "tags": [
+        "accessory",
+        "phone_case",
+        "handheld",
+        "flatlay",
+        "cute_product_photo"
+      ],
+      "allowed_reference_roles": [
+        "product_scene",
+        "surface_design_layout",
+        "handheld_composition",
+        "flatlay_composition",
+        "lighting"
+      ],
+      "quality_flags": [
+        "do_not_copy_trademarks_logos_or_copyrighted_characters"
+      ],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0205",
+      "source_pdf": "ecc6251729113be40b2bdd049ba513b8.pdf",
+      "image_path": "reference_library/apparel_men/REF-0205.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0206",
+      "source_pdf": "eeb37be58fb4d0cf3c4b3e2b53b80a40.pdf",
+      "image_path": "reference_library/apparel_women/REF-0206.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0207",
+      "source_pdf": "eed8092e31f16ec4db04624cdb792318.pdf",
+      "image_path": "reference_library/apparel_women/REF-0207.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0208",
+      "source_pdf": "f18a03bd398d6bf792140f3690f0a7d6.pdf",
+      "image_path": "reference_library/apparel_women/REF-0208.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0209",
+      "source_pdf": "f25893069bf7c9aa0ff8bf4c069fd441.pdf",
+      "image_path": "reference_library/apparel_women/REF-0209.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0211",
+      "source_pdf": "f403b3f0e999a49f442ace5946025841.pdf",
+      "image_path": "reference_library/apparel_men/REF-0211.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0215",
+      "source_pdf": "f82d8945de3a2ce55338f3e8d62038a4.pdf",
+      "image_path": "reference_library/apparel_women/REF-0215.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "outdoor",
+        "natural_light"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0216",
+      "source_pdf": "f9d853e6e52154516d7d92e27eb29595.pdf",
+      "image_path": "reference_library/apparel_women/REF-0216.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_women",
+      "audience": "adult_women",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "pinterest_ready",
+        "editorial",
+        "styled_outfit",
+        "studio_or_catalog"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0218",
+      "source_pdf": "fd33ee9767a16f6b26e83cc533115520.pdf",
+      "image_path": "reference_library/apparel_men/REF-0218.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0219",
+      "source_pdf": "fe1797f9a6eab4283df58dccebbddea2.pdf",
+      "image_path": "reference_library/apparel_men/REF-0219.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "REF-0221",
+      "source_pdf": "ff964a043a4be32f64dda9b850518c8f.pdf",
+      "image_path": "reference_library/apparel_men/REF-0221.jpg",
+      "active": true,
+      "duplicate_of": null,
+      "category": "apparel_men",
+      "audience": "adult_men",
+      "product_family": "apparel",
+      "tags": [
+        "fashion",
+        "streetwear",
+        "editorial",
+        "styled_outfit",
+        "colored_studio",
+        "editorial_lighting"
+      ],
+      "allowed_reference_roles": [
+        "pose",
+        "framing",
+        "styling",
+        "scene",
+        "lighting",
+        "color_palette",
+        "garment_silhouette"
+      ],
+      "quality_flags": [],
+      "notes": [
+        "Use visual language and general aesthetic only. Create an original result; do not copy a real person's identity, exact copyrighted graphic, logo, watermark, or text."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-01",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-01.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "portrait_layout",
+        "pastel_tabs",
+        "vertical_tablet"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-02",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-02.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "hand_with_stylus",
+        "closeup",
+        "portrait_layout"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-03",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-03.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "multi_device",
+        "open_spread",
+        "pastel_tabs"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-04",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-04.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "multi_tablet",
+        "minimal_pink",
+        "portrait_layout"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-05",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-05.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "cover_and_open_spread",
+        "editorial_palette",
+        "red_cherry"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-06",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-06.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "two_tablets",
+        "minimal_pink",
+        "calendar_page"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-07",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-07.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "open_spread",
+        "hands",
+        "neutral_aesthetic"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-08",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-08.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "two_device_layout",
+        "minimal_editorial",
+        "pink_neutral"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-09",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-09.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "portrait_layout",
+        "pastel_tabs",
+        "dark_mode_planner"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-10",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-10.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "cover_and_open_spread",
+        "styled_props",
+        "pastel_editorial"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-11",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-11.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "cover_and_stickers",
+        "multi_device",
+        "soft_textures"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-12",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-12.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "cover_and_daily_page",
+        "illustrated_cover",
+        "warm_neutral"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-13",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-13.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "cover_hero",
+        "minimal_luxury",
+        "neutral_palette"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    },
+    {
+      "id": "PLANNER-REF-14",
+      "source_pdf": "user-provided planner-listing reference screenshot",
+      "image_path": "reference_library/digital_product_device_mockups/PLANNER-REF-14.png",
+      "active": true,
+      "duplicate_of": null,
+      "category": "digital_product_device_mockups",
+      "audience": null,
+      "product_family": "digital_product_device",
+      "tags": [
+        "tablet",
+        "digital_product",
+        "planner_listing",
+        "cover_and_open_spread",
+        "cute_pastel",
+        "brown_pink_palette"
+      ],
+      "allowed_reference_roles": [
+        "device_scene",
+        "screen_mockup_composition",
+        "planner_listing_composition",
+        "workspace_styling",
+        "lighting",
+        "palette"
+      ],
+      "quality_flags": [
+        "use_visual_language_only_no_logos_or_text"
+      ],
+      "notes": [
+        "Use the composition, device presentation, light, palette, and listing-showcase language only. Do not copy visible trademarks, seller names, layouts, exact text, or graphics."
+      ]
+    }
+  ]
+}

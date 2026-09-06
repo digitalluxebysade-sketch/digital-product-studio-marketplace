@@ -1,0 +1,3 @@
+# Example Full Request
+
+Use create-etsy-product-automation to create a complete Etsy product called “Soft Life Content Planner.” It is for new digital-product sellers who need help planning Instagram, TikTok, Pinterest, and Etsy content. Create 30 separate pages at 567 × 726 px using soft pink, cream, pastel green, and brown bow accents. Keep the pages feminine, clean, and not crowded. Create the finished separate page files, a high-quality compiled PDF, five listing images, three tablet mockups, Etsy title, description, tags, customer download instructions, a personal-use license, and a final organized ZIP. Do not stop after the first page or first batch.

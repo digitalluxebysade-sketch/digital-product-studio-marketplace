@@ -1,0 +1,97 @@
+{
+  "examples": [
+    {
+      "request": "Create five Pinterest-ready brown coquette women's outfit mockups",
+      "filters": {
+        "category": "apparel_women",
+        "tags": [
+          "fashion",
+          "pinterest_ready"
+        ]
+      },
+      "reference_roles": [
+        "garment silhouette",
+        "pose/framing",
+        "scene/lighting",
+        "palette"
+      ]
+    },
+    {
+      "request": "Create a blank children's oversized tee mockup for Etsy",
+      "filters": {
+        "category": "apparel_children",
+        "tags": [
+          "age_appropriate"
+        ]
+      },
+      "reference_roles": [
+        "garment silhouette",
+        "commercial pose",
+        "studio lighting"
+      ]
+    },
+    {
+      "request": "Create a men's Y2K streetwear shirt mockup",
+      "filters": {
+        "category": "apparel_men",
+        "tags": [
+          "streetwear",
+          "editorial"
+        ]
+      },
+      "reference_roles": [
+        "styling",
+        "pose",
+        "framing",
+        "lighting"
+      ]
+    },
+    {
+      "request": "Create a cream ceramic mug with raised pink bows in a cozy sunlight scene",
+      "filters": {
+        "category": "drinkware_ceramic_mugs",
+        "tags": [
+          "ceramic",
+          "cozy"
+        ]
+      },
+      "reference_roles": [
+        "product shape",
+        "surface decoration",
+        "sunlight scene",
+        "composition"
+      ]
+    },
+    {
+      "request": "Create a clear glass tumbler with strawberries, bows, and a bamboo lid",
+      "filters": {
+        "category": "drinkware_tumblers_bottles",
+        "tags": [
+          "glass_or_acrylic",
+          "bows"
+        ]
+      },
+      "reference_roles": [
+        "product shape",
+        "surface design layout",
+        "lifestyle scene",
+        "lighting"
+      ]
+    },
+    {
+      "request": "Create a digital planner tablet mockup in a cozy white bedroom workspace",
+      "filters": {
+        "categories": [
+          "digital_product_device_mockups",
+          "interior_bedroom_workspace_scenes"
+        ]
+      },
+      "reference_roles": [
+        "device composition",
+        "bedroom scene",
+        "warm lighting",
+        "prop styling"
+      ]
+    }
+  ]
+}

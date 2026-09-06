@@ -1,0 +1,16 @@
+{
+  "name": "create-etsy-product-automation",
+  "display_name": "Digital Luxe Etsy Product Automation",
+  "version": "1.0.0",
+  "author": "Digital Luxe by Sadé",
+  "entrypoint": "SKILL.md",
+  "description": "End-to-end Etsy digital product creation and listing automation.",
+  "categories": [
+    "digital products",
+    "etsy",
+    "image generation",
+    "listing creation",
+    "product packaging"
+  ],
+  "customer_facing_name": "Etsy Product Factory Automation System"
+}

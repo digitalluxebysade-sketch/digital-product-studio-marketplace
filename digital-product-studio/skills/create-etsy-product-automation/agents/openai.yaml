@@ -1,0 +1,12 @@
+interface:
+  display_name: create etsy product automation
+  short_description: Creates complete Etsy-ready digital products from one prompt,
+    including the finished product, separate page files, PDFs or editable deliverables,
+    listing images, mockups, SEO listing copy, delivery instructions, licensing, quality
+    checks, and a final organized ZIP package. Use for Etsy digital downloads, printables,
+    planners, workbooks, e-books, templates, invitations, activity books, brand kits,
+    wall art, mockup packs, and other sellable digital products.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

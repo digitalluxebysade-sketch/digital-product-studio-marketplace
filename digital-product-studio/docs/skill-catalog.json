@@ -1,0 +1,158 @@
+[
+  {
+    "group": "Planners",
+    "name": "digital-planner-tab-shape-selector",
+    "purpose": "Select and lock the visual tab shape before generating a tabbed planner.",
+    "example": "Use scalloped tabs for my digital planner."
+  },
+  {
+    "group": "Planners",
+    "name": "create-consistent-tabbed-digital-planner",
+    "purpose": "Create complete functional planner pages with a locked master shell and consistent tabs.",
+    "example": "Create a 100-page feminine digital planner."
+  },
+  {
+    "group": "Planners",
+    "name": "hyperlink-digital-planner-pdf",
+    "purpose": "Embed and verify real PDF navigation without redesigning the pages.",
+    "example": "Hyperlink this completed planner PDF."
+  },
+  {
+    "group": "Planners",
+    "name": "planner-quality-control",
+    "purpose": "Audit planner content, dates, layout, navigation, and delivery files.",
+    "example": "Check this planner for mistakes before I sell it."
+  },
+  {
+    "group": "Etsy & Selling",
+    "name": "create-etsy-product-automation",
+    "purpose": "Own complete Etsy product creation, selling assets, delivery instructions, and packaging.",
+    "example": "Create an entire Etsy digital product from scratch."
+  },
+  {
+    "group": "Etsy & Selling",
+    "name": "create-product-listing",
+    "purpose": "Write factual listing copy and a promotional asset plan for a specific product.",
+    "example": "Write the Etsy listing for this product."
+  },
+  {
+    "group": "Etsy & Selling",
+    "name": "etsy-listing-image-generator",
+    "purpose": "Generate a coordinated set of separate listing graphics that show verified product features.",
+    "example": "Create Etsy listing images for this digital product."
+  },
+  {
+    "group": "Etsy & Selling",
+    "name": "create-any-product-mockup",
+    "purpose": "Create reference-guided product scenes and Pinterest-ready mockups.",
+    "example": "Make Pinterest-ready mockups for this product."
+  },
+  {
+    "group": "E-books",
+    "name": "e-book-generator",
+    "purpose": "Produce fully written, designed e-books with exact page counts and optional reference styling.",
+    "example": "Create a 24-page guide to indoor gardening."
+  },
+  {
+    "group": "E-books",
+    "name": "editable-ebook-workbook-creator",
+    "purpose": "Pair educational content with practical workbook exercises and supported editable deliverables.",
+    "example": "Create an editable ebook and matching workbook about freelance onboarding."
+  },
+  {
+    "group": "E-books",
+    "name": "create-recipe-ebook",
+    "purpose": "Create recipe collections with structured instructions, food visuals, and a finished book.",
+    "example": "Create a recipe e-book."
+  },
+  {
+    "group": "KDP",
+    "name": "childrens-kdp-book-creator",
+    "purpose": "Create age-appropriate tracing, alphabet, early-learning, and story products.",
+    "example": "Create a children’s alphabet tracing book."
+  },
+  {
+    "group": "KDP",
+    "name": "create-coloring-book-collection",
+    "purpose": "Create cohesive coloring interiors, covers, previews, and customer files.",
+    "example": "Create a children’s coloring book."
+  },
+  {
+    "group": "KDP",
+    "name": "kdp-interior-page-creator",
+    "purpose": "Create coordinated inside pages for a specified book or missing interior component.",
+    "example": "Create 20 KDP interior tracker pages."
+  },
+  {
+    "group": "KDP",
+    "name": "kdp-product-bundle-creator",
+    "purpose": "Coordinate related KDP books and companion products under one visual system.",
+    "example": "Create a tracing, coloring, and activity book family."
+  },
+  {
+    "group": "KDP",
+    "name": "low-content-kdp-book-creator",
+    "purpose": "Create complete journals, notebooks, trackers, and logbooks.",
+    "example": "Create a gardening logbook for KDP."
+  },
+  {
+    "group": "KDP",
+    "name": "puzzle-activity-book-creator",
+    "purpose": "Create solvable puzzles and activity books with matching answer keys.",
+    "example": "Create a puzzle activity book."
+  },
+  {
+    "group": "Printables & Education",
+    "name": "create-digital-paper-pack",
+    "purpose": "Create coordinated seamless papers and verify pattern repeats.",
+    "example": "Create a digital paper pack."
+  },
+  {
+    "group": "Printables & Education",
+    "name": "create-worksheet-level-variants",
+    "purpose": "Differentiate one objective into beginner, standard, and advanced worksheets.",
+    "example": "Make three difficulty levels of this multiplication worksheet."
+  },
+  {
+    "group": "Printables & Education",
+    "name": "teacher-resource-automation",
+    "purpose": "Create grade-appropriate classroom packs with instructions and answer keys.",
+    "example": "Create classroom printables for third-grade math."
+  },
+  {
+    "group": "Branding & Social",
+    "name": "small-business-branding-kit-automation",
+    "purpose": "Create brand strategy, identity concepts, coordinated assets, and guidelines.",
+    "example": "Create my small business branding kit."
+  },
+  {
+    "group": "Branding & Social",
+    "name": "canva-social-media-template-pack-creator",
+    "purpose": "Create coordinated template collections with Canva editing when available.",
+    "example": "Create a 60-template social media pack for a salon."
+  },
+  {
+    "group": "Branding & Social",
+    "name": "youtube-branding-kit-creator",
+    "purpose": "Create separate channel banners, thumbnails, end screens, and related brand assets.",
+    "example": "Create a YouTube branding package."
+  },
+  {
+    "group": "Product Bundles & Automation",
+    "name": "endless-digital-product-factory",
+    "purpose": "Create distinct product families, custom products, and ledger-based continuations.",
+    "example": "Build three companion products based on my successful digital product."
+  },
+  {
+    "group": "Product Bundles & Automation",
+    "name": "seasonal-digital-product-bundle-creator",
+    "purpose": "Create cohesive holiday or seasonal collections and their delivery materials.",
+    "example": "Create a Christmas digital-product bundle."
+  },
+  {
+    "group": "Product Bundles & Automation",
+    "name": "digital-product-studio-orchestrator",
+    "purpose": "Route combined requests and pass verified outputs between existing workflow owners.",
+    "example": "Create a complete planner and prepare everything I need to sell it on Etsy."
+  }
+]

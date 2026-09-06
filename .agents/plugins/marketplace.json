@@ -1,0 +1,20 @@
+{
+  "name": "sade-digital-product-studio",
+  "interface": {
+    "displayName": "Digital Product Studio by Sadé"
+  },
+  "plugins": [
+    {
+      "name": "digital-product-studio",
+      "source": {
+        "source": "local",
+        "path": "./digital-product-studio"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

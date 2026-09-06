@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "checks": {
+    "preserved_source_files": 355,
+    "source_files_byte_identical": 330,
+    "skill_count": 26,
+    "decoded_images": 218,
+    "checked_local_paths": 50,
+    "active_mockup_references": 197,
+    "pdf_fixture": "3 pages; 7 links; destinations, replacement, dimensions and pixel-identical renders checked; invalid maps and unlinked PDF rejected"
+  },
+  "modified_source_files": [
+    "skills/canva-social-media-template-pack-creator/agents/openai.yaml",
+    "skills/childrens-kdp-book-creator/agents/openai.yaml",
+    "skills/create-any-product-mockup/agents/openai.yaml",
+    "skills/create-coloring-book-collection/agents/openai.yaml",
+    "skills/create-consistent-tabbed-digital-planner/agents/openai.yaml",
+    "skills/create-digital-paper-pack/agents/openai.yaml",
+    "skills/create-etsy-product-automation/agents/openai.yaml",
+    "skills/create-product-listing/agents/openai.yaml",
+    "skills/create-recipe-ebook/agents/openai.yaml",
+    "skills/create-worksheet-level-variants/agents/openai.yaml",
+    "skills/e-book-generator/agents/openai.yaml",
+    "skills/editable-ebook-workbook-creator/agents/openai.yaml",
+    "skills/endless-digital-product-factory/agents/openai.yaml",
+    "skills/etsy-listing-image-generator/agents/openai.yaml",
+    "skills/hyperlink-digital-planner-pdf/agents/openai.yaml",
+    "skills/hyperlink-digital-planner-pdf/scripts/hyperlink_planner_pdf.py",
+    "skills/kdp-interior-page-creator/agents/openai.yaml",
+    "skills/kdp-product-bundle-creator/agents/openai.yaml",
+    "skills/low-content-kdp-book-creator/agents/openai.yaml",
+    "skills/planner-quality-control/agents/openai.yaml",
+    "skills/puzzle-activity-book-creator/agents/openai.yaml",
+    "skills/seasonal-digital-product-bundle-creator/agents/openai.yaml",
+    "skills/small-business-branding-kit-automation/agents/openai.yaml",
+    "skills/teacher-resource-automation/agents/openai.yaml",
+    "skills/youtube-branding-kit-creator/agents/openai.yaml"
+  ],
+  "errors": [],
+  "limits": [
+    "Conceptual routing review is not a live model routing test.",
+    "Source mockup manifest.txt lists two historical excluded duplicate files absent from the uploaded archive; neither appears in the live retrieval index.",
+    "Source mockup metadata says three excluded duplicates; the supplied live index contains one excluded duplicate plus one interface screenshot. Source metadata preserved.",
+    "Private reference libraries retained locally; no public or customer archive created.",
+    "The supplied PDF inspector does not compare against an expected map or detect all ambiguous overlaps; the skill requires those additional QA checks."
+  ]
+}

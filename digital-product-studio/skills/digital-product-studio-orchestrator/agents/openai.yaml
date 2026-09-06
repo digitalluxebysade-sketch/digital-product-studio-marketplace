@@ -1,0 +1,6 @@
+interface:
+  display_name: "Digital Product Studio Coordinator"
+  short_description: "Coordinate complete products and specialist handoffs"
+  default_prompt: "Use $digital-product-studio-orchestrator to create a complete digital product and prepare its selling assets."
+policy:
+  allow_implicit_invocation: true

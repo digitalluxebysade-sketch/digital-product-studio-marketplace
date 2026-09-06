@@ -1,0 +1,5 @@
+interface:
+  display_name: kdp interior page creator
+  short_description: Create coordinated functional KDP interior pages
+policy:
+  allow_implicit_invocation: true

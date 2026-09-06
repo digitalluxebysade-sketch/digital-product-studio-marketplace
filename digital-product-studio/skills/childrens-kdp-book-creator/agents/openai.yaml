@@ -1,0 +1,5 @@
+interface:
+  display_name: childrens kdp book creator
+  short_description: Create age-appropriate children’s books and tracing pages
+policy:
+  allow_implicit_invocation: true

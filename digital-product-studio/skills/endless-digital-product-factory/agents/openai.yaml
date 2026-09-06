@@ -1,0 +1,13 @@
+interface:
+  display_name: endless digital product factory
+  short_description: Create any lawful, original digital product the user requests,
+    including custom, uncommon, hybrid, or newly invented product types, plus expandable
+    product families and repeatable workflows. Use ChatGPT Image Generation for all
+    original visual creation required by the deliverable. The product examples in
+    this skill are illustrative rather than restrictive. Continue from a product ledger
+    to generate new products without duplicating prior concepts. Do not use for brainstorming-only
+    requests when the user explicitly wants ideas without finished deliverables.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

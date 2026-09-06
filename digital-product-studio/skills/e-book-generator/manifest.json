@@ -1,0 +1,16 @@
+{
+  "skill_name": "e-book-generator",
+  "display_name": "E-Book Generator",
+  "version": "1.0.0",
+  "type": "instruction-only",
+  "required_manifest": "SKILL.md",
+  "default_page_size": "567x726 px portrait unless user specifies otherwise",
+  "supports": [
+    "any exact page count",
+    "any theme or reference style",
+    "separate full-size page generation",
+    "high-quality PDF compilation",
+    "organized ZIP delivery",
+    "optional workbook and selling extras"
+  ]
+}

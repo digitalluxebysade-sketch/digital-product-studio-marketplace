@@ -1,0 +1,9 @@
+interface:
+  display_name: create any product mockup
+  short_description: Create Pinterest-ready aesthetic product mockups using curated
+    visual references for products, poses, scenes, lighting, styling, and commercial
+    presentation.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
