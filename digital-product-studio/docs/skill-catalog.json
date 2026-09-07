@@ -157,7 +157,7 @@
   },
   {
     "group": "Invitations & Stationery",
-    "name": "create-canva-interactive-birthday-invitation",
+    "name": "canva-birthday-invite",
     "purpose": "Create birthday invitation website graphics with a coordinated envelope-opening reveal for Canva.",
     "example": "Create an interactive birthday invitation website in Canva."
   },

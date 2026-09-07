@@ -50,7 +50,7 @@ Load only the relevant linked entrypoints. Explicit single-skill requests bypass
 
 - [youtube-branding-kit-creator](../../youtube-branding-kit-creator/SKILL.md): Create separate channel banners, thumbnails, end screens, and related brand assets. Example: “Create a YouTube branding package.”
 
-- [create-canva-interactive-birthday-invitation](../../create-canva-interactive-birthday-invitation/SKILL.md): Create birthday invitation website graphics with a coordinated envelope-opening reveal for Canva. Example: “Create an interactive birthday invitation website in Canva.”
+- [canva-birthday-invite](../../canva-birthday-invite/SKILL.md): Create birthday invitation website graphics with a coordinated envelope-opening reveal for Canva. Example: “Create an interactive birthday invitation website in Canva.”
 
 - [create-canva-interactive-invitation](../../create-canva-interactive-invitation/SKILL.md): Create Canva-ready interactive invitation sections for any event. Example: “Create a scrolling Canva invitation for my bridal shower.”
 

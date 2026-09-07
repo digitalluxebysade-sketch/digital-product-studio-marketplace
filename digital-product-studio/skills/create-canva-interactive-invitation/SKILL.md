@@ -1,10 +1,6 @@
 ---
 name: create-canva-interactive-invitation
 description: Creates complete Canva-ready invitations for any event using ChatGPT image generation. Use for weddings, bridal showers, baby showers, gender reveals, birthdays, graduations, anniversaries, memorials, holidays, religious events, business events, fundraisers, parties, and other invitations. Produces each invitation section as a separate image at the user's requested size, with optional closed/open envelope reveal, transparent assets, and product-listing images. Do not code.
-metadata:
-  author: Digital Luxe by Sade
-  version: "1.1.0"
-  category: invitation-design
 ---
 
 # Create Canva Interactive Invitation

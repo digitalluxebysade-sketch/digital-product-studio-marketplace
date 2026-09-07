@@ -122,7 +122,7 @@ The plugin contains 29 supplied specialist skills and one coordinator. The workf
 
 |---|---|---|
 
-| [create-canva-interactive-birthday-invitation](skills/create-canva-interactive-birthday-invitation/SKILL.md) | Create birthday invitation website graphics with a coordinated envelope-opening reveal for Canva. | Create an interactive birthday invitation website in Canva. |
+| [canva-birthday-invite](skills/canva-birthday-invite/SKILL.md) | Create birthday invitation website graphics with a coordinated envelope-opening reveal for Canva. | Create an interactive birthday invitation website in Canva. |
 
 | [create-canva-interactive-invitation](skills/create-canva-interactive-invitation/SKILL.md) | Create Canva-ready interactive invitation sections for any event. | Create a scrolling Canva invitation for my bridal shower. |
 

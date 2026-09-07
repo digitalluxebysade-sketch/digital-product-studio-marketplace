@@ -1,12 +1,7 @@
 interface:
-  display_name: create canva interactive invitation
-  short_description: Creates complete Canva-ready invitations for any event using
-    ChatGPT image generation. Use for weddings, bridal showers, baby showers, gender
-    reveals, birthdays, graduations, anniversaries, memorials, holidays, religious
-    events, business events, fundraisers, parties, and other invitations. Produces
-    each invitation section as a separate image at the user's requested size, with
-    optional closed/open envelope reveal, transparent assets, and product-listing
-    images. Do not code.
+  display_name: Canva Interactive Invitations
+  short_description: Create Canva-ready invitations for any event.
+  default_prompt: Create a complete Canva-ready interactive invitation for my event.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:

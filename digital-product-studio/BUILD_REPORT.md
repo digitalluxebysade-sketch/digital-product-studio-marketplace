@@ -1,6 +1,6 @@
 # Build report: Digital Product Studio by Sadé
 
-Built 2026-09-04; updated 2026-09-07. Slug: `digital-product-studio`. Developer: Sadé. Version: 1.1.0.
+Built 2026-09-04; updated 2026-09-07. Slug: `digital-product-studio`. Developer: Sadé. Version: 1.1.1.
 
 ## Locations
 
@@ -31,7 +31,7 @@ Distribution plugin: `digital-product-studio/`. Marketplace manifest: `.agents/p
 - small-business-branding-kit-automation
 - canva-social-media-template-pack-creator
 - youtube-branding-kit-creator
-- create-canva-interactive-birthday-invitation
+- canva-birthday-invite
 - create-canva-interactive-invitation
 - create-wedding-stationery-suite
 - invitation-card-suite-creator
@@ -81,7 +81,7 @@ No production skill was replaced, shortened, or merged. YAML serialization chang
 
 `digital-product-studio-orchestrator`, with agent metadata and a linked routing reference. It chooses an existing owner, tracks handoffs in that owner’s manifest, preserves inputs, and coordinates specialist QA and sales stages. It does not reproduce the production methodologies.
 
-Version 1.1.0 adds the supplied `create-canva-interactive-birthday-invitation`, `create-canva-interactive-invitation`, `create-wedding-stationery-suite`, and `invitation-card-suite-creator` skills. The supplied `create-etsy-product-automation` bundle matched the existing skill instructions and updated only its agent product-availability metadata. SVG artwork was preserved while affected icon canvases were increased from 24×24 to 48×48 for directory compatibility.
+Version 1.1.1 adds the supplied birthday, interactive invitation, wedding stationery, and invitation-card skills. The birthday skill uses the directory-compatible identifier `canva-birthday-invite`; its instructions and references are otherwise preserved. The supplied `create-etsy-product-automation` bundle matched the existing skill instructions and updated only its agent product-availability metadata. SVG artwork was preserved while affected icon canvases were increased from 24×24 to 48×48 for directory compatibility.
 
 ## Overlap decisions
 

@@ -1,5 +1,5 @@
 ---
-name: create-canva-interactive-birthday-invitation
+name: canva-birthday-invite
 description: Create complete interactive-style birthday invitation website designs for assembly in Canva, beginning with a coordinated closed-envelope image and matching opened-envelope reveal image. Use when a user asks for a Canva birthday invitation website, scrolling birthday invite, interactive digital birthday invitation, envelope-opening invitation, section-by-section invitation design, or a sellable birthday invitation bundle. Generate the visual website one coordinated section at a time with ChatGPT image generation. Never write code or build the website outside Canva.
 ---
 
@@ -353,7 +353,7 @@ If image generation is temporarily unavailable, provide the exact generation pro
 
 # Example activation
 
-> Use the create-canva-interactive-birthday-invitation skill to create a pink bow 21st-birthday invitation website for Canva. Use the customer's requested size of [WIDTH] × [HEIGHT] [UNIT] in [ORIENTATION] orientation. Begin with two separate, matching images: first a closed envelope, then the exact same envelope opened with the invitation card revealed. Generate every remaining section separately at that size. Include a cover, welcome, details, countdown, dress code, schedule, directions, RSVP, gallery, gift note, playlist, and closing section. Use ChatGPT image generation for all original visuals, keep it uncluttered, create matching transparent assets, and make five product-listing images. Do not code anything.
+> Use the canva-birthday-invite skill to create a pink bow 21st-birthday invitation website for Canva. Use the customer's requested size of [WIDTH] × [HEIGHT] [UNIT] in [ORIENTATION] orientation. Begin with two separate, matching images: first a closed envelope, then the exact same envelope opened with the invitation card revealed. Generate every remaining section separately at that size. Include a cover, welcome, details, countdown, dress code, schedule, directions, RSVP, gallery, gift note, playlist, and closing section. Use ChatGPT image generation for all original visuals, keep it uncluttered, create matching transparent assets, and make five product-listing images. Do not code anything.
 
 
 ## Image-Generation Usage Efficiency Protocol
