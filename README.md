@@ -63,3 +63,7 @@ Visual workflows require image-generation capability. Canva workflows require a 
 ## Ownership
 
 Copyright © 2026 Digital Luxe by Sadé. See [LICENSE.md](LICENSE.md). Third-party or reference-image redistribution rights remain subject to the publication review.
+
+## Privacy and support
+
+See the [Privacy Policy](PRIVACY.md). For support, use the repository's [GitHub Issues page](https://github.com/digitalluxebysade-sketch/digital-product-studio-marketplace/issues).

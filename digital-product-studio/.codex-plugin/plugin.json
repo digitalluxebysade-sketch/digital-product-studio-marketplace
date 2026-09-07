@@ -5,6 +5,9 @@
   "author": {
     "name": "Sad\u00e9"
   },
+  "homepage": "https://github.com/digitalluxebysade-sketch/digital-product-studio-marketplace",
+  "repository": "https://github.com/digitalluxebysade-sketch/digital-product-studio-marketplace",
+  "license": "SEE LICENSE IN LICENSE.md",
   "skills": "./skills/",
   "interface": {
     "displayName": "Digital Product Studio by Sad\u00e9",
@@ -12,7 +15,13 @@
     "longDescription": "An all-in-one digital product creation studio that uses specialized workflows to create digital planners, printables, e-books, KDP products, branding kits, social-media templates, educational resources, mockups, Etsy listing assets, product bundles, and complete ready-to-sell digital products.",
     "developerName": "Sad\u00e9",
     "category": "Productivity",
-    "capabilities": [],
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/digitalluxebysade-sketch/digital-product-studio-marketplace",
+    "privacyPolicyURL": "https://github.com/digitalluxebysade-sketch/digital-product-studio-marketplace/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/digitalluxebysade-sketch/digital-product-studio-marketplace/blob/main/LICENSE.md",
     "defaultPrompt": [
       "Create a digital paper pack.",
       "Create a complete planner and prepare it for Etsy.",
