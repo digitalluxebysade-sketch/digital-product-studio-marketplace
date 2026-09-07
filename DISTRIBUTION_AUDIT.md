@@ -7,8 +7,8 @@ Audit date: 2026-09-06
 - Plugin: Digital Product Studio by Sadé
 - Plugin slug: `digital-product-studio`
 - Marketplace name: `sade-digital-product-studio`
-- Skill folders: 26
-- `SKILL.md` entrypoints: 26
+- Skill folders: 30
+- `SKILL.md` entrypoints: 30
 - Plugin files: 371
 - Plugin size: 27182287 bytes
 - Symlinks: 0
@@ -57,7 +57,7 @@ No dependency folder or virtual environment is committed.
 
 ## Validation results
 
-- All 26 skill entrypoints passed the official skill validator.
+- All 30 skill entrypoints passed the official skill validator.
 - The plugin passed the official plugin validator.
 - The studio integrity validator passed.
 - All JSON files parsed successfully.

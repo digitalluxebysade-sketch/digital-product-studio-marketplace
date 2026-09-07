@@ -50,6 +50,14 @@ Load only the relevant linked entrypoints. Explicit single-skill requests bypass
 
 - [youtube-branding-kit-creator](../../youtube-branding-kit-creator/SKILL.md): Create separate channel banners, thumbnails, end screens, and related brand assets. Example: “Create a YouTube branding package.”
 
+- [create-canva-interactive-birthday-invitation](../../create-canva-interactive-birthday-invitation/SKILL.md): Create birthday invitation website graphics with a coordinated envelope-opening reveal for Canva. Example: “Create an interactive birthday invitation website in Canva.”
+
+- [create-canva-interactive-invitation](../../create-canva-interactive-invitation/SKILL.md): Create Canva-ready interactive invitation sections for any event. Example: “Create a scrolling Canva invitation for my bridal shower.”
+
+- [create-wedding-stationery-suite](../../create-wedding-stationery-suite/SKILL.md): Create coordinated wedding invitations, ceremony and reception stationery, signs, and digital versions. Example: “Create a complete wedding stationery suite.”
+
+- [invitation-card-suite-creator](../../invitation-card-suite-creator/SKILL.md): Create printable and digital invitation cards with coordinated inserts and listing previews. Example: “Create a complete graduation invitation card suite.”
+
 - [endless-digital-product-factory](../../endless-digital-product-factory/SKILL.md): Create distinct product families, custom products, and ledger-based continuations. Example: “Build three companion products based on my successful digital product.”
 
 - [seasonal-digital-product-bundle-creator](../../seasonal-digital-product-bundle-creator/SKILL.md): Create cohesive holiday or seasonal collections and their delivery materials. Example: “Create a Christmas digital-product bundle.”
@@ -73,5 +81,7 @@ Factory versus coordinator: orchestration. The factory already owns product fami
 Branding versus social/YouTube kits: useful specialization. Reuse the brand kit’s approved identity; produce the larger social or channel kit only when requested.
 
 Teacher packs versus worksheet variants: useful specialization. Teacher owns the classroom package; variants own meaningful differentiation when needed.
+
+Interactive invitations versus card suites: use the birthday-specific Canva workflow when the envelope-opening birthday reveal is central; use the general Canva workflow for other interactive or scrolling event invitations. Use the wedding stationery workflow for a full wedding paper-goods system, and use the invitation card suite for flat printable or digital card sets.
 
 No true duplicate skills were consolidated. Shared production rules remain in their original files.

@@ -1,6 +1,6 @@
 # Build report: Digital Product Studio by Sadé
 
-Built 2026-09-04; updated 2026-09-06. Slug: `digital-product-studio`. Developer: Sadé. Version: 1.0.0.
+Built 2026-09-04; updated 2026-09-07. Slug: `digital-product-studio`. Developer: Sadé. Version: 1.1.0.
 
 ## Locations
 
@@ -31,6 +31,10 @@ Distribution plugin: `digital-product-studio/`. Marketplace manifest: `.agents/p
 - small-business-branding-kit-automation
 - canva-social-media-template-pack-creator
 - youtube-branding-kit-creator
+- create-canva-interactive-birthday-invitation
+- create-canva-interactive-invitation
+- create-wedding-stationery-suite
+- invitation-card-suite-creator
 - endless-digital-product-factory
 - seasonal-digital-product-bundle-creator
 - digital-product-studio-orchestrator
@@ -77,6 +81,8 @@ No production skill was replaced, shortened, or merged. YAML serialization chang
 
 `digital-product-studio-orchestrator`, with agent metadata and a linked routing reference. It chooses an existing owner, tracks handoffs in that owner’s manifest, preserves inputs, and coordinates specialist QA and sales stages. It does not reproduce the production methodologies.
 
+Version 1.1.0 adds the supplied `create-canva-interactive-birthday-invitation`, `create-canva-interactive-invitation`, `create-wedding-stationery-suite`, and `invitation-card-suite-creator` skills. The supplied `create-etsy-product-automation` bundle matched the existing skill instructions and updated only its agent product-availability metadata. SVG artwork was preserved while affected icon canvases were increased from 24×24 to 48×48 for directory compatibility.
+
 ## Overlap decisions
 
 All overlaps represent specialization or orchestration; none justified consolidation. Etsy automation owns complete selling packages; listing copy, listing graphics, and mockups remain independent. The factory owns product expansion and ledger continuation; the coordinator supplies cross-skill handoffs. Recipe books and editable teaching/workbook pairs retain specialized entrypoints. Coloring takes pure coloring requests, children’s handles early learning/tracing, puzzles handles puzzle mechanics, low-content handles journals/logbooks, interiors handles inside-page scope, and KDP bundles owns product families. Branding assets feed social and channel templates without recreating approved identity. Teacher packs use worksheet differentiation only as needed.
@@ -86,8 +92,8 @@ The coordinator documents source conflicts: factory page-size rules versus speci
 ## Validation
 
 - All 25 archives passed ZIP integrity checks and extracted separately without collisions or path traversal.
-- Exactly 25 expected source skills plus the coordinator are present.
-- All 26 skill frontmatters pass the official skill validator.
+- Exactly 29 supplied specialist skills plus the coordinator are present.
+- All 30 skill frontmatters pass the official skill validator.
 - The official plugin validator passes after agent metadata compatibility fixes.
 - Hash comparison accounts for all 355 source files and all 25 intentional modified files.
 - 218 images decode; JSON, YAML, SVG, Python syntax, icons, linked Markdown, and 49 explicitly referenced local paths validate.
@@ -170,4 +176,4 @@ Each original skill retains its complete original relative tree, enumerated file
 
 ## Installation and test prompts
 
-Follow INSTALL.md for exact commands. All 18 conceptual prompts and expected routes are in docs/routing-tests.md; README.md also includes a direct-use prompt for each of the 26 skills. Begin in a fresh Codex task after installation.
+Follow INSTALL.md for exact commands. All 18 conceptual prompts and expected routes are in docs/routing-tests.md; README.md also includes direct-use prompts for all 30 skills. Begin in a fresh Codex task after installation.

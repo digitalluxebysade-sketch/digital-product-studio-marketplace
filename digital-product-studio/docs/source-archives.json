@@ -198,5 +198,45 @@
       "extracted/digital-planner-tab-shape-selector/digital-planner-tab-shape-selector"
     ],
     "files": 1
+  },
+  {
+    "archive": "create-canva-interactive-birthday-invitation.zip",
+    "sha256": "333077aaa1ae79ba4552d79f8da10d7c9ce2627e1a3733637e8f44f9ec16747d",
+    "skills": [
+      "create-canva-interactive-birthday-invitation"
+    ],
+    "files": 6
+  },
+  {
+    "archive": "create-canva-interactive-invitation.zip",
+    "sha256": "72b736b246b0f22808439d6707c8464eb131f690180716dd3d881f0d10c56920",
+    "skills": [
+      "create-canva-interactive-invitation"
+    ],
+    "files": 8
+  },
+  {
+    "archive": "create-etsy-product-automation.zip",
+    "sha256": "1c4133af8532fbc6fc7ae42febd4102e2a5317fea9f1d8edc4a8a2035f8b6739",
+    "skills": [
+      "create-etsy-product-automation"
+    ],
+    "files": 14
+  },
+  {
+    "archive": "create-wedding-stationery-suite.zip",
+    "sha256": "8aa6a9fd351868a7245f1b75243b6170fc64e68e32e7f79821835c6b10ce3501",
+    "skills": [
+      "create-wedding-stationery-suite"
+    ],
+    "files": 2
+  },
+  {
+    "archive": "invitation-card-suite-creator.zip",
+    "sha256": "5146ae494a89552982233067b3c76d1dc8d882b2481d82da679dfa750ee14db8",
+    "skills": [
+      "invitation-card-suite-creator"
+    ],
+    "files": 5
   }
 ]

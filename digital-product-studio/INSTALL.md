@@ -9,7 +9,7 @@ codex plugin marketplace add digitalluxebysade-sketch/digital-product-studio-mar
 codex plugin add digital-product-studio@sade-digital-product-studio
 ```
 
-Open a new Codex task after installation so the 26 skills are loaded.
+Open a new Codex task after installation so the 30 skills are loaded.
 
 ## Test
 

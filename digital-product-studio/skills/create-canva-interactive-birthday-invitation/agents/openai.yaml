@@ -1,0 +1,9 @@
+interface:
+  display_name: Canva Birthday Invitation
+  short_description: Create a Canva invitation with an envelope-opening reveal.
+  default_prompt: Create a complete interactive-style birthday invitation website
+    in Canva. Begin with a closed-envelope image, then create the exact same envelope
+    opened with the invitation card revealed. Use image generation for each section
+    and do not write code.
+policy:
+  allow_implicit_invocation: true

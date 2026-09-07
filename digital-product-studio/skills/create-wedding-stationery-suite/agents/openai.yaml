@@ -1,0 +1,5 @@
+interface:
+  display_name: "create wedding stationery suite"
+  short_description: "Create a coordinated wedding stationery suite."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,10 @@
+interface:
+  display_name: Invitation Card Suite Creator
+  short_description: Create coordinated printable and digital invitation-card suites.
+  brand_color: '#DCA0AD'
+  default_prompt: Create a complete invitation card suite for a [event] in a [theme]
+    style, with every card and insert generated separately.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

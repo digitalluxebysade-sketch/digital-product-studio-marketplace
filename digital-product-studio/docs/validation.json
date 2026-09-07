@@ -3,7 +3,7 @@
   "checks": {
     "preserved_source_files": 355,
     "source_files_byte_identical": 330,
-    "skill_count": 26,
+    "skill_count": 30,
     "decoded_images": 218,
     "checked_local_paths": 50,
     "active_mockup_references": 197,

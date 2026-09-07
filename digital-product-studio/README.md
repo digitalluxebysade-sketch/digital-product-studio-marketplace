@@ -7,7 +7,7 @@
 An all-in-one digital product creation studio that uses specialized workflows to create digital planners, printables, e-books, KDP products, branding kits, social-media templates, educational resources, mockups, Etsy listing assets, product bundles, and complete ready-to-sell digital products.
 
 
-The plugin preserves 25 supplied specialist skills and adds one small coordinator. The workflows create files using the tools available in the current Codex session. Image generation, Canva access, and PDF libraries are separate capabilities, not bundled services.
+The plugin contains 29 supplied specialist skills and one coordinator. The workflows create files using the tools available in the current Codex session. Image generation, Canva access, and PDF libraries are separate capabilities, not bundled services.
 
 
 **Private local plugin:** supplied mockup and listing references remain internal. Do not publish or share this complete source package without checking redistribution rights. Generated customer products must exclude source reference libraries, previews, indices, excluded files, and skill instructions.
@@ -113,6 +113,22 @@ The plugin preserves 25 supplied specialist skills and adds one small coordinato
 | [canva-social-media-template-pack-creator](skills/canva-social-media-template-pack-creator/SKILL.md) | Create coordinated template collections with Canva editing when available. | Create a 60-template social media pack for a salon. |
 
 | [youtube-branding-kit-creator](skills/youtube-branding-kit-creator/SKILL.md) | Create separate channel banners, thumbnails, end screens, and related brand assets. | Create a YouTube branding package. |
+
+
+### Invitations & Stationery
+
+
+| Skill | Purpose | Example prompt |
+
+|---|---|---|
+
+| [create-canva-interactive-birthday-invitation](skills/create-canva-interactive-birthday-invitation/SKILL.md) | Create birthday invitation website graphics with a coordinated envelope-opening reveal for Canva. | Create an interactive birthday invitation website in Canva. |
+
+| [create-canva-interactive-invitation](skills/create-canva-interactive-invitation/SKILL.md) | Create Canva-ready interactive invitation sections for any event. | Create a scrolling Canva invitation for my bridal shower. |
+
+| [create-wedding-stationery-suite](skills/create-wedding-stationery-suite/SKILL.md) | Create coordinated wedding invitations, ceremony and reception stationery, signs, and digital versions. | Create a complete wedding stationery suite. |
+
+| [invitation-card-suite-creator](skills/invitation-card-suite-creator/SKILL.md) | Create printable and digital invitation cards with coordinated inserts and listing previews. | Create a complete graduation invitation card suite. |
 
 
 

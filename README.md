@@ -2,7 +2,7 @@
 
 Digital Product Studio by Sadé is an all-in-one digital product creation studio that uses specialized workflows to create digital planners, printables, e-books, KDP products, branding kits, social-media templates, educational resources, mockups, Etsy listing assets, product bundles, and complete ready-to-sell digital products.
 
-The marketplace contains one Codex plugin with 26 focused skills. Each specialist keeps its own workflow, supporting references, templates, scripts, and assets. A coordinator routes multi-stage requests without replacing the specialist instructions.
+The marketplace contains one Codex plugin with 30 focused skills. Each specialist keeps its own workflow, supporting references, templates, scripts, and assets. A coordinator routes multi-stage requests without replacing the specialist instructions.
 
 ## Publication review
 

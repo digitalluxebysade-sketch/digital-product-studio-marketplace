@@ -1,6 +1,6 @@
 {
   "name": "digital-product-studio",
-  "version": "1.0.0+codex.20260906152934",
+  "version": "1.1.0",
   "description": "An all-in-one digital product creation studio that uses specialized workflows to create digital planners, printables, e-books, KDP products, branding kits, social-media templates, educational resources, mockups, Etsy listing assets, product bundles, and complete ready-to-sell digital products.",
   "author": {
     "name": "Sad\u00e9"
@@ -11,7 +11,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Digital Product Studio by Sad\u00e9",
-    "shortDescription": "Create digital products and their selling assets.",
+    "shortDescription": "Create digital products",
     "longDescription": "An all-in-one digital product creation studio that uses specialized workflows to create digital planners, printables, e-books, KDP products, branding kits, social-media templates, educational resources, mockups, Etsy listing assets, product bundles, and complete ready-to-sell digital products.",
     "developerName": "Sad\u00e9",
     "category": "Productivity",
@@ -27,9 +27,9 @@
       "Create a complete planner and prepare it for Etsy.",
       "Create a coordinated small-business branding kit."
     ],
-    "logo": "./assets/logo.png",
-    "logoDark": "./assets/logo.png",
-    "composerIcon": "./assets/logo.png"
+    "logo": "./assets/logo-square.svg",
+    "logoDark": "./assets/logo-square.svg",
+    "composerIcon": "./assets/logo-square.svg"
   },
   "keywords": [
     "digital-products",
