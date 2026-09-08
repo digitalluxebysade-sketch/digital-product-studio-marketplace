@@ -1,0 +1,5 @@
+interface:
+  display_name: hyperlink digital planner pdf
+  short_description: Embed and verify clickable digital planner navigation
+policy:
+  allow_implicit_invocation: true

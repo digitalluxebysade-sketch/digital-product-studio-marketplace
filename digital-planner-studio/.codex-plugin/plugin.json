@@ -1,0 +1,41 @@
+{
+  "name": "digital-planner-studio",
+  "version": "1.0.0",
+  "description": "A specialized digital-planner studio that selects tab shapes, creates every planner visual exclusively through image generation, and adds verified PDF hyperlinks.",
+  "author": {
+    "name": "Sadé"
+  },
+  "homepage": "https://github.com/digitalluxebysade-sketch/digital-product-studio-marketplace",
+  "repository": "https://github.com/digitalluxebysade-sketch/digital-product-studio-marketplace",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Digital Planner Studio by Sadé",
+    "shortDescription": "Image-generate digital planners",
+    "longDescription": "A specialized workflow for digital planners: select a tab shape, create every planner visual exclusively through image generation, and add verified PDF hyperlinks.",
+    "developerName": "Sadé",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/digitalluxebysade-sketch/digital-product-studio-marketplace",
+    "privacyPolicyURL": "https://github.com/digitalluxebysade-sketch/digital-product-studio-marketplace/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/digitalluxebysade-sketch/digital-product-studio-marketplace/blob/main/LICENSE.md",
+    "defaultPrompt": [
+      "Create a complete hyperlinked digital planner.",
+      "Add and verify hyperlinks in my completed planner PDF.",
+      "Choose a tab shape for my digital planner."
+    ],
+    "logo": "./assets/logo-square.svg",
+    "logoDark": "./assets/logo-square.svg",
+    "composerIcon": "./assets/logo-square.svg"
+  },
+  "keywords": [
+    "digital-planner",
+    "goodnotes",
+    "hyperlinked-pdf",
+    "planner-tabs",
+    "clickable-planner"
+  ]
+}
